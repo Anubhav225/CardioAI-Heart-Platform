@@ -1,6 +1,6 @@
 # 🫀 CardioAI — Heart Intelligence Platform (v5.0)
 
-An AI-powered heart disease risk prediction platform built with Streamlit, scikit-learn, SHAP, and Groq — 37 features across prediction, explainability, real-time voice control, simulation, and analytics.
+An AI-powered heart disease risk prediction platform built with scikit-learn, SHAP, and Groq — 37 features across prediction, explainability, real-time voice control, simulation, and analytics.
 
 ---
 
