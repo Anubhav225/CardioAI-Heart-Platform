@@ -1,0 +1,501 @@
+drug_name,drug_class,symptoms_treated,category,advice
+Torsemide,Loop Diuretic,"heart failure, edema, hypertension",Cardiovascular,Better bioavailability than furosemide. Once daily dosing.
+Prazosin,Alpha Blocker,"hypertension, PTSD nightmares, heart failure",Cardiovascular,First-dose syncope possible. Start with low dose.
+Nitroprusside,Vasodilator,"hypertensive emergency, acute heart failure",Cardiovascular,IV infusion only. Risk of cyanide toxicity.
+Methyldopa,Central Antihypertensive,"hypertension in pregnancy, essential hypertension",Cardiovascular,Drug of choice in gestational hypertension.
+Clopidogrel,Antiplatelet,"stroke prevention, heart attack, peripheral artery disease",Cardiovascular,Avoid with PPIs. Report unusual bleeding.
+Fluvastatin,Statin,"hyperlipidemia, cardiovascular risk",Cardiovascular,Take at bedtime. Extended-release form available.
+Spironolactone,Potassium-sparing Diuretic,"heart failure, hypertension, edema",Cardiovascular,Monitor potassium. Avoid in renal failure.
+Ramipril,ACE Inhibitor,"hypertension, post-MI, heart failure",Cardiovascular,Dry cough is common side effect. Avoid in pregnancy.
+Digoxin,Cardiac Glycoside,"heart failure, atrial fibrillation, atrial flutter",Cardiovascular,Narrow therapeutic window. Report nausea or visual changes.
+Empagliflozin,SGLT2 Inhibitor,"heart failure, type 2 diabetes, cardiovascular risk reduction",Cardiovascular,Risk of genital infections. Maintain hydration.
+Torsemide,Loop Diuretic,"heart failure, edema, hypertension",Cardiovascular,Better bioavailability than furosemide. Once daily dosing.
+Felodipine,Dihydropyridine CCB,"hypertension, angina",Cardiovascular,Avoid grapefruit juice. Swallow whole.
+Atorvastatin 40mg,Statin,"high cardiovascular risk, very high LDL",Cardiovascular,Higher dose — monitor for muscle pain.
+Mannitol,Osmotic Diuretic,"raised intracranial pressure, acute glaucoma",Neurology/Renal,IV infusion. Monitor serum osmolarity.
+Nitroglycerin,Nitrate,"angina, chest pain, coronary artery spasm",Cardiovascular,May cause headache. Sit before taking. Store away from light.
+Bumetanide,Loop Diuretic,"heart failure, edema, hypertension",Cardiovascular,More potent than furosemide per mg. Monitor electrolytes.
+Torsemide,Loop Diuretic,"heart failure, edema, hypertension",Cardiovascular,Better bioavailability than furosemide. Once daily dosing.
+Ramipril,ACE Inhibitor,"hypertension, post-MI, heart failure",Cardiovascular,Dry cough is common side effect. Avoid in pregnancy.
+Apixaban,Direct Oral Anticoagulant,"atrial fibrillation, DVT, stroke prevention",Cardiovascular,No routine monitoring needed. Report unusual bleeding.
+Phenylephrine,Vasopressor,"hypotension, nasal congestion, shock",Cardiovascular,Raises blood pressure. Avoid in hypertensive patients.
+Aspirin,Antiplatelet,"chest pain, heart attack prevention, clot prevention",Cardiovascular,Take with food to avoid stomach upset. Do not use if allergic to NSAIDs.
+Bisoprolol,Beta-blocker,"heart failure, hypertension, angina",Cardiovascular,Taper off gradually. Monitor blood pressure.
+Ezetimibe,Cholesterol Absorption Inhibitor,"high LDL, hypercholesterolemia",Cardiovascular,Can be combined with statins. Well tolerated.
+Levothyroxine,Thyroid Hormone,"hypothyroidism, thyroid hormone deficiency",Endocrine,Take on empty stomach. Recheck TSH every 6 months.
+Rosuvastatin,Statin,"high LDL cholesterol, cardiovascular risk reduction",Cardiovascular,Check liver function tests. Avoid excessive alcohol.
+Chlorthalidone,Thiazide-like Diuretic,"hypertension, heart failure prevention",Cardiovascular,Longer-acting than HCTZ. Morning dosing preferred.
+Morphine,Opioid Analgesic,"severe pain, acute pulmonary edema, cancer pain",Pain Management,Respiratory depression risk. Use with caution.
+Sacubitril,Neprilysin Inhibitor,used in combination with valsartan for HFrEF,Cardiovascular,Part of ARNI combination drug Entresto.
+Ramipril,ACE Inhibitor,"hypertension, post-MI, heart failure",Cardiovascular,Dry cough is common side effect. Avoid in pregnancy.
+Digoxin,Cardiac Glycoside,"heart failure, atrial fibrillation, atrial flutter",Cardiovascular,Narrow therapeutic window. Report nausea or visual changes.
+Propafenone,Class IC Antiarrhythmic,"atrial fibrillation, SVT, ventricular arrhythmia",Cardiovascular,Avoid in heart failure. CYP interactions.
+Isosorbide Mononitrate,Nitrate,"angina prophylaxis, heart failure",Cardiovascular,Allow nitrate-free period daily to avoid tolerance.
+Fenofibrate,Fibrate,"hypertriglyceridemia, mixed dyslipidemia",Cardiovascular,Take with food. Monitor renal function.
+Vernakalant,Antiarrhythmic,acute conversion of recent-onset atrial fibrillation,Cardiovascular,IV only. Effective in <48 hr AFib onset.
+Morphine,Opioid Analgesic,"severe pain, acute pulmonary edema, cancer pain",Pain Management,Respiratory depression risk. Use with caution.
+Aliskiren,Direct Renin Inhibitor,hypertension,Cardiovascular,Avoid with ACE inhibitor or ARB in diabetics.
+Alteplase,Thrombolytic,"acute MI, ischemic stroke, pulmonary embolism",Cardiovascular,Bleeding risk is high. Used in emergency settings only.
+Indapamide,Thiazide-like Diuretic,"hypertension, fluid retention",Cardiovascular,Better metabolic profile than HCTZ.
+Norepinephrine,Vasopressor,"septic shock, hypotension, cardiogenic shock",Cardiovascular,IV infusion. Monitor peripheral perfusion.
+Verapamil,Calcium Channel Blocker,"arrhythmia, hypertension, angina",Cardiovascular,Avoid with beta-blockers. May cause constipation.
+Quinapril,ACE Inhibitor,"hypertension, heart failure",Cardiovascular,May cause first-dose hypotension. Monitor potassium.
+Amlodipine,Calcium Channel Blocker,"hypertension, angina, coronary artery disease",Cardiovascular,May cause ankle swelling. Take at same time daily.
+Ibuprofen,NSAID,"pain, fever, inflammation, arthritis",Musculoskeletal,Take with food. Avoid in heart disease or peptic ulcer.
+Nitroglycerin,Nitrate,"angina, chest pain, coronary artery spasm",Cardiovascular,May cause headache. Sit before taking. Store away from light.
+Procainamide,Class IA Antiarrhythmic,"ventricular arrhythmia, Wolff-Parkinson-White",Cardiovascular,Lupus-like syndrome with long-term use. IV formulation.
+Morphine,Opioid Analgesic,"severe pain, acute pulmonary edema, cancer pain",Pain Management,Respiratory depression risk. Use with caution.
+Candesartan,ARB,"hypertension, heart failure, diabetic nephropathy",Cardiovascular,One of the most potent ARBs. Well tolerated.
+Levothyroxine,Thyroid Hormone,"hypothyroidism, thyroid hormone deficiency",Endocrine,Take on empty stomach. Recheck TSH every 6 months.
+Ivermectin,Antiparasitic,"scabies, onchocerciasis, strongyloidiasis",Infectious Disease,Take on empty stomach. Single or short-course treatment.
+Doxazosin,Alpha Blocker,"hypertension, benign prostatic hyperplasia",Cardiovascular/Urology,First-dose hypotension. Take at bedtime.
+Candesartan,ARB,"hypertension, heart failure, diabetic nephropathy",Cardiovascular,One of the most potent ARBs. Well tolerated.
+Quinidine,Class IA Antiarrhythmic,"atrial fibrillation, atrial flutter, ventricular tachycardia",Cardiovascular,Monitor QT interval. Cinchonism side effects.
+Adenosine,Antiarrhythmic,"supraventricular tachycardia, SVT",Cardiovascular,Short-acting. Given IV in hospital setting only.
+Prednisolone,Corticosteroid,"asthma, COPD exacerbation, autoimmune diseases, inflammation",Respiratory/Immune,Take in morning with food. Taper dose gradually.
+Spironolactone,Potassium-sparing Diuretic,"heart failure, hypertension, edema",Cardiovascular,Monitor potassium. Avoid in renal failure.
+Warfarin,Anticoagulant,"atrial fibrillation, blood clots, stroke prevention",Cardiovascular,Regular INR monitoring required. Avoid vitamin K-rich foods.
+Prazosin,Alpha Blocker,"hypertension, PTSD nightmares, heart failure",Cardiovascular,First-dose syncope possible. Start with low dose.
+Ibuprofen,NSAID,"pain, fever, inflammation, arthritis",Musculoskeletal,Take with food. Avoid in heart disease or peptic ulcer.
+Tramadol,Opioid Analgesic,moderate to severe pain,Pain Management,Risk of dependence. Avoid alcohol.
+Metoclopramide,Prokinetic/Antiemetic,"nausea, vomiting, gastroparesis, GERD",Gastroenterology,Avoid long-term use — risk of tardive dyskinesia.
+Eplerenone,Mineralocorticoid Antagonist,"post-MI heart failure, hypertension",Cardiovascular,Monitor potassium. Avoid with strong CYP3A4 inhibitors.
+Hydrochlorothiazide,Thiazide Diuretic,"hypertension, edema, nephrolithiasis",Cardiovascular,Monitor electrolytes. Risk of hypokalemia.
+Telmisartan,ARB,"hypertension, cardiovascular risk, diabetic nephropathy",Cardiovascular,Check renal function and potassium. Safe alternative to ACE inhibitors.
+Methyldopa,Central Antihypertensive,"hypertension in pregnancy, essential hypertension",Cardiovascular,Drug of choice in gestational hypertension.
+Clonidine,Central Alpha Agonist,"hypertension, ADHD, opioid withdrawal",Cardiovascular,Rebound hypertension if stopped abruptly.
+Enoxaparin,Low Molecular Weight Heparin,"DVT prophylaxis, ACS, PE",Cardiovascular,Subcutaneous injection. Reduce dose in renal impairment.
+Mannitol,Osmotic Diuretic,"raised intracranial pressure, acute glaucoma",Neurology/Renal,IV infusion. Monitor serum osmolarity.
+Irbesartan,ARB,"hypertension, diabetic nephropathy",Cardiovascular,Monitor renal function. Avoid bilateral renal artery stenosis.
+Niacin,Vitamin B3/Antidyslipidemic,"high triglycerides, low HDL, hyperlipidemia",Cardiovascular,Flushing is common — take aspirin 30 min before.
+Carvedilol,Alpha/Beta-blocker,"heart failure, hypertension, post-MI",Cardiovascular,Take with food. Monitor blood sugar in diabetics.
+Torsemide,Loop Diuretic,"heart failure, edema, hypertension",Cardiovascular,Better bioavailability than furosemide. Once daily dosing.
+Metoclopramide,Prokinetic/Antiemetic,"nausea, vomiting, gastroparesis, GERD",Gastroenterology,Avoid long-term use — risk of tardive dyskinesia.
+Enalapril,ACE Inhibitor,"hypertension, heart failure, left ventricular dysfunction",Cardiovascular,First dose hypotension risk. Take at bedtime initially.
+Verapamil,Calcium Channel Blocker,"arrhythmia, hypertension, angina",Cardiovascular,Avoid with beta-blockers. May cause constipation.
+Clonidine,Central Alpha Agonist,"hypertension, ADHD, opioid withdrawal",Cardiovascular,Rebound hypertension if stopped abruptly.
+Pitavastatin,Statin,"high LDL, mixed dyslipidemia",Cardiovascular,Minimal renal dosing adjustment needed.
+Flecainide,Class IC Antiarrhythmic,"supraventricular tachycardia, paroxysmal AFib",Cardiovascular,Avoid in structural heart disease. Monitor ECG.
+Hydrochlorothiazide,Thiazide Diuretic,"hypertension, edema, nephrolithiasis",Cardiovascular,Monitor electrolytes. Risk of hypokalemia.
+Bisoprolol,Beta-blocker,"heart failure, hypertension, angina",Cardiovascular,Taper off gradually. Monitor blood pressure.
+Doxazosin,Alpha Blocker,"hypertension, benign prostatic hyperplasia",Cardiovascular/Urology,First-dose hypotension. Take at bedtime.
+Furosemide,Loop Diuretic,"heart failure, edema, hypertension, fluid retention",Cardiovascular,Monitor electrolytes. Take in morning to avoid nocturia.
+Gemfibrozil,Fibrate,"hypertriglyceridemia, low HDL",Cardiovascular,Avoid with statins — myopathy risk. Take 30 min before meals.
+Nifedipine,Dihydropyridine CCB,"hypertension, angina, Raynaud's",Cardiovascular,Extended-release preferred. May cause reflex tachycardia.
+Olmesartan,ARB,hypertension,Cardiovascular,Rarely causes sprue-like enteropathy. Monitor accordingly.
+Flecainide,Class IC Antiarrhythmic,"supraventricular tachycardia, paroxysmal AFib",Cardiovascular,Avoid in structural heart disease. Monitor ECG.
+Amiodarone,Antiarrhythmic,"ventricular tachycardia, atrial fibrillation, arrhythmia",Cardiovascular,Multiple organ toxicity risk. Regular monitoring essential.
+Nitroglycerin,Nitrate,"angina, chest pain, coronary artery spasm",Cardiovascular,May cause headache. Sit before taking. Store away from light.
+Salbutamol,Beta-2 Agonist,"asthma, COPD, bronchospasm, wheeze",Respiratory,Reliever inhaler. Excessive use indicates poor control.
+Omeprazole,Proton Pump Inhibitor,"GERD, peptic ulcer, acid reflux, heartburn",Gastroenterology,Take 30 minutes before meals. Long-term use increases fracture risk.
+Labetalol,Alpha/Beta Blocker,"hypertension, hypertensive emergency in pregnancy",Cardiovascular,Safe in pregnancy. IV form for hypertensive crisis.
+Pantoprazole,Proton Pump Inhibitor,"GERD, erosive esophagitis, Zollinger-Ellison syndrome",Gastroenterology,Swallow whole. Take before eating.
+Rosuvastatin,Statin,"high LDL cholesterol, cardiovascular risk reduction",Cardiovascular,Check liver function tests. Avoid excessive alcohol.
+Insulin Glargine,Basal Insulin,"type 1 diabetes, type 2 diabetes",Endocrine,Inject subcutaneously at same time each day. Do not mix.
+Metoclopramide,Prokinetic/Antiemetic,"nausea, vomiting, gastroparesis, GERD",Gastroenterology,Avoid long-term use — risk of tardive dyskinesia.
+Digoxin,Cardiac Glycoside,"heart failure, atrial fibrillation, atrial flutter",Cardiovascular,Narrow therapeutic window. Report nausea or visual changes.
+Eplerenone,Mineralocorticoid Antagonist,"post-MI heart failure, hypertension",Cardiovascular,Monitor potassium. Avoid with strong CYP3A4 inhibitors.
+Cholestyramine,Bile Acid Sequestrant,"high LDL, cholestatic pruritus",Cardiovascular,Mix with liquid. Take other drugs 1 hour before or 4 hours after.
+Procainamide,Class IA Antiarrhythmic,"ventricular arrhythmia, Wolff-Parkinson-White",Cardiovascular,Lupus-like syndrome with long-term use. IV formulation.
+Felodipine,Dihydropyridine CCB,"hypertension, angina",Cardiovascular,Avoid grapefruit juice. Swallow whole.
+Propafenone,Class IC Antiarrhythmic,"atrial fibrillation, SVT, ventricular arrhythmia",Cardiovascular,Avoid in heart failure. CYP interactions.
+Enoxaparin,Low Molecular Weight Heparin,"DVT prophylaxis, ACS, PE",Cardiovascular,Subcutaneous injection. Reduce dose in renal impairment.
+Fenofibrate,Fibrate,"hypertriglyceridemia, mixed dyslipidemia",Cardiovascular,Take with food. Monitor renal function.
+Furosemide,Loop Diuretic,"heart failure, edema, hypertension, fluid retention",Cardiovascular,Monitor electrolytes. Take in morning to avoid nocturia.
+Warfarin,Anticoagulant,"atrial fibrillation, blood clots, stroke prevention",Cardiovascular,Regular INR monitoring required. Avoid vitamin K-rich foods.
+Bisoprolol,Beta-blocker,"heart failure, hypertension, angina",Cardiovascular,Taper off gradually. Monitor blood pressure.
+Vernakalant,Antiarrhythmic,acute conversion of recent-onset atrial fibrillation,Cardiovascular,IV only. Effective in <48 hr AFib onset.
+Amiodarone,Antiarrhythmic,"ventricular tachycardia, atrial fibrillation, arrhythmia",Cardiovascular,Multiple organ toxicity risk. Regular monitoring essential.
+Niacin,Vitamin B3/Antidyslipidemic,"high triglycerides, low HDL, hyperlipidemia",Cardiovascular,Flushing is common — take aspirin 30 min before.
+Aliskiren,Direct Renin Inhibitor,hypertension,Cardiovascular,Avoid with ACE inhibitor or ARB in diabetics.
+Alteplase,Thrombolytic,"acute MI, ischemic stroke, pulmonary embolism",Cardiovascular,Bleeding risk is high. Used in emergency settings only.
+Vernakalant,Antiarrhythmic,acute conversion of recent-onset atrial fibrillation,Cardiovascular,IV only. Effective in <48 hr AFib onset.
+Valsartan,ARB,"hypertension, heart failure, post-MI",Cardiovascular,Monitor renal function and potassium.
+Lercanidipine,Dihydropyridine CCB,hypertension,Cardiovascular,Take before meal. Lower side effect profile.
+Fenofibrate,Fibrate,"hypertriglyceridemia, mixed dyslipidemia",Cardiovascular,Take with food. Monitor renal function.
+Isosorbide Mononitrate,Nitrate,"angina prophylaxis, heart failure",Cardiovascular,Allow nitrate-free period daily to avoid tolerance.
+Chlorthalidone,Thiazide-like Diuretic,"hypertension, heart failure prevention",Cardiovascular,Longer-acting than HCTZ. Morning dosing preferred.
+Sacubitril,Neprilysin Inhibitor,used in combination with valsartan for HFrEF,Cardiovascular,Part of ARNI combination drug Entresto.
+Propafenone,Class IC Antiarrhythmic,"atrial fibrillation, SVT, ventricular arrhythmia",Cardiovascular,Avoid in heart failure. CYP interactions.
+Labetalol,Alpha/Beta Blocker,"hypertension, hypertensive emergency in pregnancy",Cardiovascular,Safe in pregnancy. IV form for hypertensive crisis.
+Dopamine,Vasopressor/Inotrope,"cardiogenic shock, acute heart failure",Cardiovascular,Dose-dependent effects. Monitor urine output.
+Flecainide,Class IC Antiarrhythmic,"supraventricular tachycardia, paroxysmal AFib",Cardiovascular,Avoid in structural heart disease. Monitor ECG.
+Candesartan,ARB,"hypertension, heart failure, diabetic nephropathy",Cardiovascular,One of the most potent ARBs. Well tolerated.
+Doxazosin,Alpha Blocker,"hypertension, benign prostatic hyperplasia",Cardiovascular/Urology,First-dose hypotension. Take at bedtime.
+Dronedarone,Antiarrhythmic,atrial fibrillation maintenance (non-permanent),Cardiovascular,Avoid in permanent AFib or heart failure. Hepatotoxicity risk.
+Enalapril,ACE Inhibitor,"hypertension, heart failure, left ventricular dysfunction",Cardiovascular,First dose hypotension risk. Take at bedtime initially.
+Paracetamol,Analgesic/Antipyretic,"fever, mild to moderate pain, headache",General,Do not exceed 4g daily. Hepatotoxic in overdose.
+Digoxin,Cardiac Glycoside,"heart failure, atrial fibrillation, atrial flutter",Cardiovascular,Narrow therapeutic window. Report nausea or visual changes.
+Disopyramide,Class IA Antiarrhythmic,"atrial flutter, ventricular tachycardia, hypertrophic cardiomyopathy",Cardiovascular,Anticholinergic side effects. Negative inotrope.
+Empagliflozin,SGLT2 Inhibitor,"heart failure, type 2 diabetes, cardiovascular risk reduction",Cardiovascular,Risk of genital infections. Maintain hydration.
+Amiodarone,Antiarrhythmic,"ventricular tachycardia, atrial fibrillation, arrhythmia",Cardiovascular,Multiple organ toxicity risk. Regular monitoring essential.
+Propafenone,Class IC Antiarrhythmic,"atrial fibrillation, SVT, ventricular arrhythmia",Cardiovascular,Avoid in heart failure. CYP interactions.
+Levothyroxine,Thyroid Hormone,"hypothyroidism, thyroid hormone deficiency",Endocrine,Take on empty stomach. Recheck TSH every 6 months.
+Tiotropium,Long-acting Anticholinergic,"COPD, chronic bronchitis, emphysema",Respiratory,Once daily. Rinse mouth after use.
+Lidocaine IV,Class IB Antiarrhythmic,"ventricular arrhythmia, cardiac arrest (IV use)",Cardiovascular,IV use only in hospital. CNS toxicity at high doses.
+Olmesartan,ARB,hypertension,Cardiovascular,Rarely causes sprue-like enteropathy. Monitor accordingly.
+Propranolol,Beta-blocker,"hypertension, angina, arrhythmia, anxiety, tremor",Cardiovascular,Masks hypoglycaemia symptoms. Avoid in asthma.
+Diltiazem,Calcium Channel Blocker,"angina, hypertension, atrial fibrillation",Cardiovascular,Monitor heart rate. May interact with statins.
+Metformin,Biguanide,"type 2 diabetes, prediabetes, insulin resistance",Endocrine,Take with meals. Stop before contrast procedures.
+Sacubitril/Valsartan,ARNI,heart failure with reduced ejection fraction,Cardiovascular,Do not combine with ACE inhibitor. Monitor blood pressure.
+Ondansetron,5-HT3 Antagonist,"nausea, vomiting, chemotherapy-induced nausea",Gastroenterology,May prolong QT interval. Use with caution in cardiac patients.
+Furosemide,Loop Diuretic,"heart failure, edema, hypertension, fluid retention",Cardiovascular,Monitor electrolytes. Take in morning to avoid nocturia.
+Acetazolamide,Carbonic Anhydrase Inhibitor,"altitude sickness, glaucoma, epilepsy, edema",Miscellaneous,Monitor electrolytes. Contraindicated in sulfa allergy.
+Atorvastatin 40mg,Statin,"high cardiovascular risk, very high LDL",Cardiovascular,Higher dose — monitor for muscle pain.
+Dopamine,Vasopressor/Inotrope,"cardiogenic shock, acute heart failure",Cardiovascular,Dose-dependent effects. Monitor urine output.
+Prednisolone,Corticosteroid,"asthma, COPD exacerbation, autoimmune diseases, inflammation",Respiratory/Immune,Take in morning with food. Taper dose gradually.
+Prazosin,Alpha Blocker,"hypertension, PTSD nightmares, heart failure",Cardiovascular,First-dose syncope possible. Start with low dose.
+Lercanidipine,Dihydropyridine CCB,hypertension,Cardiovascular,Take before meal. Lower side effect profile.
+Acetazolamide,Carbonic Anhydrase Inhibitor,"altitude sickness, glaucoma, epilepsy, edema",Miscellaneous,Monitor electrolytes. Contraindicated in sulfa allergy.
+Warfarin,Anticoagulant,"atrial fibrillation, blood clots, stroke prevention",Cardiovascular,Regular INR monitoring required. Avoid vitamin K-rich foods.
+Quinidine,Class IA Antiarrhythmic,"atrial fibrillation, atrial flutter, ventricular tachycardia",Cardiovascular,Monitor QT interval. Cinchonism side effects.
+Gemfibrozil,Fibrate,"hypertriglyceridemia, low HDL",Cardiovascular,Avoid with statins — myopathy risk. Take 30 min before meals.
+Azilsartan,ARB,hypertension,Cardiovascular,Strong and sustained blood pressure lowering.
+Procainamide,Class IA Antiarrhythmic,"ventricular arrhythmia, Wolff-Parkinson-White",Cardiovascular,Lupus-like syndrome with long-term use. IV formulation.
+Digoxin,Cardiac Glycoside,"heart failure, atrial fibrillation, atrial flutter",Cardiovascular,Narrow therapeutic window. Report nausea or visual changes.
+Prazosin,Alpha Blocker,"hypertension, PTSD nightmares, heart failure",Cardiovascular,First-dose syncope possible. Start with low dose.
+Carvedilol,Alpha/Beta-blocker,"heart failure, hypertension, post-MI",Cardiovascular,Take with food. Monitor blood sugar in diabetics.
+Labetalol,Alpha/Beta Blocker,"hypertension, hypertensive emergency in pregnancy",Cardiovascular,Safe in pregnancy. IV form for hypertensive crisis.
+Furosemide,Loop Diuretic,"heart failure, edema, hypertension, fluid retention",Cardiovascular,Monitor electrolytes. Take in morning to avoid nocturia.
+Valsartan,ARB,"hypertension, heart failure, post-MI",Cardiovascular,Monitor renal function and potassium.
+Labetalol,Alpha/Beta Blocker,"hypertension, hypertensive emergency in pregnancy",Cardiovascular,Safe in pregnancy. IV form for hypertensive crisis.
+Dapagliflozin,SGLT2 Inhibitor,"heart failure, type 2 diabetes, CKD",Cardiovascular,Hold before surgery. Risk of DKA.
+Valsartan,ARB,"hypertension, heart failure, post-MI",Cardiovascular,Monitor renal function and potassium.
+Losartan,ARB,"hypertension, diabetic nephropathy, heart failure",Cardiovascular,Less likely to cause cough than ACE inhibitors.
+Doxazosin,Alpha Blocker,"hypertension, benign prostatic hyperplasia",Cardiovascular/Urology,First-dose hypotension. Take at bedtime.
+Aspirin,Antiplatelet,"chest pain, heart attack prevention, clot prevention",Cardiovascular,Take with food to avoid stomach upset. Do not use if allergic to NSAIDs.
+Telmisartan,ARB,"hypertension, cardiovascular risk, diabetic nephropathy",Cardiovascular,Check renal function and potassium. Safe alternative to ACE inhibitors.
+Diltiazem,Calcium Channel Blocker,"angina, hypertension, atrial fibrillation",Cardiovascular,Monitor heart rate. May interact with statins.
+Adenosine,Antiarrhythmic,"supraventricular tachycardia, SVT",Cardiovascular,Short-acting. Given IV in hospital setting only.
+Furosemide,Loop Diuretic,"heart failure, edema, hypertension, fluid retention",Cardiovascular,Monitor electrolytes. Take in morning to avoid nocturia.
+Vernakalant,Antiarrhythmic,acute conversion of recent-onset atrial fibrillation,Cardiovascular,IV only. Effective in <48 hr AFib onset.
+Bisoprolol,Beta-blocker,"heart failure, hypertension, angina",Cardiovascular,Taper off gradually. Monitor blood pressure.
+Lercanidipine,Dihydropyridine CCB,hypertension,Cardiovascular,Take before meal. Lower side effect profile.
+Dronedarone,Antiarrhythmic,atrial fibrillation maintenance (non-permanent),Cardiovascular,Avoid in permanent AFib or heart failure. Hepatotoxicity risk.
+Hydrochlorothiazide,Thiazide Diuretic,"hypertension, edema, nephrolithiasis",Cardiovascular,Monitor electrolytes. Risk of hypokalemia.
+Tiotropium,Long-acting Anticholinergic,"COPD, chronic bronchitis, emphysema",Respiratory,Once daily. Rinse mouth after use.
+Lisinopril,ACE Inhibitor,"hypertension, heart failure, diabetic nephropathy",Cardiovascular,Monitor potassium levels. Avoid in pregnancy.
+Cholestyramine,Bile Acid Sequestrant,"high LDL, cholestatic pruritus",Cardiovascular,Mix with liquid. Take other drugs 1 hour before or 4 hours after.
+Clopidogrel,Antiplatelet,"stroke prevention, heart attack, peripheral artery disease",Cardiovascular,Avoid with PPIs. Report unusual bleeding.
+Fluvastatin,Statin,"hyperlipidemia, cardiovascular risk",Cardiovascular,Take at bedtime. Extended-release form available.
+Ramipril,ACE Inhibitor,"hypertension, post-MI, heart failure",Cardiovascular,Dry cough is common side effect. Avoid in pregnancy.
+Niacin,Vitamin B3/Antidyslipidemic,"high triglycerides, low HDL, hyperlipidemia",Cardiovascular,Flushing is common — take aspirin 30 min before.
+Adenosine,Antiarrhythmic,"supraventricular tachycardia, SVT",Cardiovascular,Short-acting. Given IV in hospital setting only.
+Perindopril,ACE Inhibitor,"hypertension, heart failure, stable coronary artery disease",Cardiovascular,Well tolerated. Monitor renal function.
+Doxazosin,Alpha Blocker,"hypertension, benign prostatic hyperplasia",Cardiovascular/Urology,First-dose hypotension. Take at bedtime.
+Prazosin,Alpha Blocker,"hypertension, PTSD nightmares, heart failure",Cardiovascular,First-dose syncope possible. Start with low dose.
+Pantoprazole,Proton Pump Inhibitor,"GERD, erosive esophagitis, Zollinger-Ellison syndrome",Gastroenterology,Swallow whole. Take before eating.
+Bumetanide,Loop Diuretic,"heart failure, edema, hypertension",Cardiovascular,More potent than furosemide per mg. Monitor electrolytes.
+Rosuvastatin,Statin,"high LDL cholesterol, cardiovascular risk reduction",Cardiovascular,Check liver function tests. Avoid excessive alcohol.
+Lercanidipine,Dihydropyridine CCB,hypertension,Cardiovascular,Take before meal. Lower side effect profile.
+Dopamine,Vasopressor/Inotrope,"cardiogenic shock, acute heart failure",Cardiovascular,Dose-dependent effects. Monitor urine output.
+Bumetanide,Loop Diuretic,"heart failure, edema, hypertension",Cardiovascular,More potent than furosemide per mg. Monitor electrolytes.
+Flecainide,Class IC Antiarrhythmic,"supraventricular tachycardia, paroxysmal AFib",Cardiovascular,Avoid in structural heart disease. Monitor ECG.
+Adenosine,Antiarrhythmic,"supraventricular tachycardia, SVT",Cardiovascular,Short-acting. Given IV in hospital setting only.
+Tramadol,Opioid Analgesic,moderate to severe pain,Pain Management,Risk of dependence. Avoid alcohol.
+Fosinopril,ACE Inhibitor,"hypertension, heart failure",Cardiovascular,Dual elimination — safer in renal impairment.
+Lidocaine IV,Class IB Antiarrhythmic,"ventricular arrhythmia, cardiac arrest (IV use)",Cardiovascular,IV use only in hospital. CNS toxicity at high doses.
+Quinidine,Class IA Antiarrhythmic,"atrial fibrillation, atrial flutter, ventricular tachycardia",Cardiovascular,Monitor QT interval. Cinchonism side effects.
+Fosinopril,ACE Inhibitor,"hypertension, heart failure",Cardiovascular,Dual elimination — safer in renal impairment.
+Adenosine,Antiarrhythmic,"supraventricular tachycardia, SVT",Cardiovascular,Short-acting. Given IV in hospital setting only.
+Aspirin,Antiplatelet,"chest pain, heart attack prevention, clot prevention",Cardiovascular,Take with food to avoid stomach upset. Do not use if allergic to NSAIDs.
+Aspirin,Antiplatelet,"chest pain, heart attack prevention, clot prevention",Cardiovascular,Take with food to avoid stomach upset. Do not use if allergic to NSAIDs.
+Enalapril,ACE Inhibitor,"hypertension, heart failure, left ventricular dysfunction",Cardiovascular,First dose hypotension risk. Take at bedtime initially.
+Dronedarone,Antiarrhythmic,atrial fibrillation maintenance (non-permanent),Cardiovascular,Avoid in permanent AFib or heart failure. Hepatotoxicity risk.
+Niacin,Vitamin B3/Antidyslipidemic,"high triglycerides, low HDL, hyperlipidemia",Cardiovascular,Flushing is common — take aspirin 30 min before.
+Omeprazole,Proton Pump Inhibitor,"GERD, peptic ulcer, acid reflux, heartburn",Gastroenterology,Take 30 minutes before meals. Long-term use increases fracture risk.
+Doxazosin,Alpha Blocker,"hypertension, benign prostatic hyperplasia",Cardiovascular/Urology,First-dose hypotension. Take at bedtime.
+Sacubitril/Valsartan,ARNI,heart failure with reduced ejection fraction,Cardiovascular,Do not combine with ACE inhibitor. Monitor blood pressure.
+Losartan,ARB,"hypertension, diabetic nephropathy, heart failure",Cardiovascular,Less likely to cause cough than ACE inhibitors.
+Eplerenone,Mineralocorticoid Antagonist,"post-MI heart failure, hypertension",Cardiovascular,Monitor potassium. Avoid with strong CYP3A4 inhibitors.
+Metoclopramide,Prokinetic/Antiemetic,"nausea, vomiting, gastroparesis, GERD",Gastroenterology,Avoid long-term use — risk of tardive dyskinesia.
+Sacubitril/Valsartan,ARNI,heart failure with reduced ejection fraction,Cardiovascular,Do not combine with ACE inhibitor. Monitor blood pressure.
+Omeprazole,Proton Pump Inhibitor,"GERD, peptic ulcer, acid reflux, heartburn",Gastroenterology,Take 30 minutes before meals. Long-term use increases fracture risk.
+Enoxaparin,Low Molecular Weight Heparin,"DVT prophylaxis, ACS, PE",Cardiovascular,Subcutaneous injection. Reduce dose in renal impairment.
+Aspirin,Antiplatelet,"chest pain, heart attack prevention, clot prevention",Cardiovascular,Take with food to avoid stomach upset. Do not use if allergic to NSAIDs.
+Atorvastatin 40mg,Statin,"high cardiovascular risk, very high LDL",Cardiovascular,Higher dose — monitor for muscle pain.
+Cholestyramine,Bile Acid Sequestrant,"high LDL, cholestatic pruritus",Cardiovascular,Mix with liquid. Take other drugs 1 hour before or 4 hours after.
+Chlorthalidone,Thiazide-like Diuretic,"hypertension, heart failure prevention",Cardiovascular,Longer-acting than HCTZ. Morning dosing preferred.
+Heparin,Anticoagulant,"DVT, PE, ACS, atrial fibrillation, clot prevention",Cardiovascular,Monitor aPTT. Risk of HIT with prolonged use.
+Apixaban,Direct Oral Anticoagulant,"atrial fibrillation, DVT, stroke prevention",Cardiovascular,No routine monitoring needed. Report unusual bleeding.
+Bisoprolol,Beta-blocker,"heart failure, hypertension, angina",Cardiovascular,Taper off gradually. Monitor blood pressure.
+Carvedilol,Alpha/Beta-blocker,"heart failure, hypertension, post-MI",Cardiovascular,Take with food. Monitor blood sugar in diabetics.
+Omeprazole,Proton Pump Inhibitor,"GERD, peptic ulcer, acid reflux, heartburn",Gastroenterology,Take 30 minutes before meals. Long-term use increases fracture risk.
+Streptokinase,Thrombolytic,"acute MI, DVT, pulmonary embolism",Cardiovascular,Allergic reactions possible. Single use only.
+Nitroprusside,Vasodilator,"hypertensive emergency, acute heart failure",Cardiovascular,IV infusion only. Risk of cyanide toxicity.
+Bisoprolol,Beta-blocker,"heart failure, hypertension, angina",Cardiovascular,Taper off gradually. Monitor blood pressure.
+Rosuvastatin,Statin,"high LDL cholesterol, cardiovascular risk reduction",Cardiovascular,Check liver function tests. Avoid excessive alcohol.
+Vernakalant,Antiarrhythmic,acute conversion of recent-onset atrial fibrillation,Cardiovascular,IV only. Effective in <48 hr AFib onset.
+Clonidine,Central Alpha Agonist,"hypertension, ADHD, opioid withdrawal",Cardiovascular,Rebound hypertension if stopped abruptly.
+Adenosine,Antiarrhythmic,"supraventricular tachycardia, SVT",Cardiovascular,Short-acting. Given IV in hospital setting only.
+Nitroglycerin,Nitrate,"angina, chest pain, coronary artery spasm",Cardiovascular,May cause headache. Sit before taking. Store away from light.
+Amiodarone,Antiarrhythmic,"ventricular tachycardia, atrial fibrillation, arrhythmia",Cardiovascular,Multiple organ toxicity risk. Regular monitoring essential.
+Dabigatran,Direct Thrombin Inhibitor,"atrial fibrillation, DVT prevention",Cardiovascular,Store in original packaging. Avoid crushing capsules.
+Clonidine,Central Alpha Agonist,"hypertension, ADHD, opioid withdrawal",Cardiovascular,Rebound hypertension if stopped abruptly.
+Verapamil,Calcium Channel Blocker,"arrhythmia, hypertension, angina",Cardiovascular,Avoid with beta-blockers. May cause constipation.
+Insulin Glargine,Basal Insulin,"type 1 diabetes, type 2 diabetes",Endocrine,Inject subcutaneously at same time each day. Do not mix.
+Simvastatin,Statin,"high cholesterol, cardiovascular risk prevention",Cardiovascular,Avoid grapefruit. Risk of myopathy at high doses.
+Pantoprazole,Proton Pump Inhibitor,"GERD, erosive esophagitis, Zollinger-Ellison syndrome",Gastroenterology,Swallow whole. Take before eating.
+Empagliflozin,SGLT2 Inhibitor,"heart failure, type 2 diabetes, cardiovascular risk reduction",Cardiovascular,Risk of genital infections. Maintain hydration.
+Fenofibrate,Fibrate,"hypertriglyceridemia, mixed dyslipidemia",Cardiovascular,Take with food. Monitor renal function.
+Procainamide,Class IA Antiarrhythmic,"ventricular arrhythmia, Wolff-Parkinson-White",Cardiovascular,Lupus-like syndrome with long-term use. IV formulation.
+Eplerenone,Mineralocorticoid Antagonist,"post-MI heart failure, hypertension",Cardiovascular,Monitor potassium. Avoid with strong CYP3A4 inhibitors.
+Verapamil,Calcium Channel Blocker,"arrhythmia, hypertension, angina",Cardiovascular,Avoid with beta-blockers. May cause constipation.
+Olmesartan,ARB,hypertension,Cardiovascular,Rarely causes sprue-like enteropathy. Monitor accordingly.
+Methyldopa,Central Antihypertensive,"hypertension in pregnancy, essential hypertension",Cardiovascular,Drug of choice in gestational hypertension.
+Carvedilol,Alpha/Beta-blocker,"heart failure, hypertension, post-MI",Cardiovascular,Take with food. Monitor blood sugar in diabetics.
+Amiodarone,Antiarrhythmic,"ventricular tachycardia, atrial fibrillation, arrhythmia",Cardiovascular,Multiple organ toxicity risk. Regular monitoring essential.
+Aliskiren,Direct Renin Inhibitor,hypertension,Cardiovascular,Avoid with ACE inhibitor or ARB in diabetics.
+Methyldopa,Central Antihypertensive,"hypertension in pregnancy, essential hypertension",Cardiovascular,Drug of choice in gestational hypertension.
+Empagliflozin,SGLT2 Inhibitor,"heart failure, type 2 diabetes, cardiovascular risk reduction",Cardiovascular,Risk of genital infections. Maintain hydration.
+Valsartan,ARB,"hypertension, heart failure, post-MI",Cardiovascular,Monitor renal function and potassium.
+Pravastatin,Statin,"high cholesterol, cardiovascular prevention",Cardiovascular,Fewer drug interactions than other statins.
+Pitavastatin,Statin,"high LDL, mixed dyslipidemia",Cardiovascular,Minimal renal dosing adjustment needed.
+Chlorthalidone,Thiazide-like Diuretic,"hypertension, heart failure prevention",Cardiovascular,Longer-acting than HCTZ. Morning dosing preferred.
+Simvastatin,Statin,"high cholesterol, cardiovascular risk prevention",Cardiovascular,Avoid grapefruit. Risk of myopathy at high doses.
+Acetazolamide,Carbonic Anhydrase Inhibitor,"altitude sickness, glaucoma, epilepsy, edema",Miscellaneous,Monitor electrolytes. Contraindicated in sulfa allergy.
+Enalapril,ACE Inhibitor,"hypertension, heart failure, left ventricular dysfunction",Cardiovascular,First dose hypotension risk. Take at bedtime initially.
+Sotalol,Antiarrhythmic,"atrial fibrillation, ventricular arrhythmia",Cardiovascular,QT prolongation risk. Monitor ECG.
+Losartan,ARB,"hypertension, diabetic nephropathy, heart failure",Cardiovascular,Less likely to cause cough than ACE inhibitors.
+Nifedipine,Dihydropyridine CCB,"hypertension, angina, Raynaud's",Cardiovascular,Extended-release preferred. May cause reflex tachycardia.
+Omeprazole,Proton Pump Inhibitor,"GERD, peptic ulcer, acid reflux, heartburn",Gastroenterology,Take 30 minutes before meals. Long-term use increases fracture risk.
+Hydralazine,Vasodilator,"hypertension, heart failure (with nitrates)",Cardiovascular,May cause lupus-like syndrome. Take with food.
+Amiodarone,Antiarrhythmic,"ventricular tachycardia, atrial fibrillation, arrhythmia",Cardiovascular,Multiple organ toxicity risk. Regular monitoring essential.
+Ramipril,ACE Inhibitor,"hypertension, post-MI, heart failure",Cardiovascular,Dry cough is common side effect. Avoid in pregnancy.
+Tramadol,Opioid Analgesic,moderate to severe pain,Pain Management,Risk of dependence. Avoid alcohol.
+Dobutamine,Inotrope,"acute heart failure, cardiogenic shock, stress testing",Cardiovascular,IV infusion only. Continuous cardiac monitoring required.
+Spironolactone,Potassium-sparing Diuretic,"heart failure, hypertension, edema",Cardiovascular,Monitor potassium. Avoid in renal failure.
+Isosorbide Mononitrate,Nitrate,"angina prophylaxis, heart failure",Cardiovascular,Allow nitrate-free period daily to avoid tolerance.
+Alteplase,Thrombolytic,"acute MI, ischemic stroke, pulmonary embolism",Cardiovascular,Bleeding risk is high. Used in emergency settings only.
+Dobutamine,Inotrope,"acute heart failure, cardiogenic shock, stress testing",Cardiovascular,IV infusion only. Continuous cardiac monitoring required.
+Isosorbide Mononitrate,Nitrate,"angina prophylaxis, heart failure",Cardiovascular,Allow nitrate-free period daily to avoid tolerance.
+Metoclopramide,Prokinetic/Antiemetic,"nausea, vomiting, gastroparesis, GERD",Gastroenterology,Avoid long-term use — risk of tardive dyskinesia.
+Prednisolone,Corticosteroid,"asthma, COPD exacerbation, autoimmune diseases, inflammation",Respiratory/Immune,Take in morning with food. Taper dose gradually.
+Atorvastatin,Statin,"high cholesterol, hyperlipidemia, atherosclerosis",Cardiovascular,Take at night. Monitor liver enzymes periodically.
+Amiodarone,Antiarrhythmic,"ventricular tachycardia, atrial fibrillation, arrhythmia",Cardiovascular,Multiple organ toxicity risk. Regular monitoring essential.
+Azilsartan,ARB,hypertension,Cardiovascular,Strong and sustained blood pressure lowering.
+Phenylephrine,Vasopressor,"hypotension, nasal congestion, shock",Cardiovascular,Raises blood pressure. Avoid in hypertensive patients.
+Apixaban,Direct Oral Anticoagulant,"atrial fibrillation, DVT, stroke prevention",Cardiovascular,No routine monitoring needed. Report unusual bleeding.
+Quinidine,Class IA Antiarrhythmic,"atrial fibrillation, atrial flutter, ventricular tachycardia",Cardiovascular,Monitor QT interval. Cinchonism side effects.
+Mexiletine,Class IB Antiarrhythmic,"ventricular arrhythmia, neuropathic pain",Cardiovascular,Take with food. Monitor QRS duration.
+Olmesartan,ARB,hypertension,Cardiovascular,Rarely causes sprue-like enteropathy. Monitor accordingly.
+Azilsartan,ARB,hypertension,Cardiovascular,Strong and sustained blood pressure lowering.
+Clopidogrel,Antiplatelet,"stroke prevention, heart attack, peripheral artery disease",Cardiovascular,Avoid with PPIs. Report unusual bleeding.
+Labetalol,Alpha/Beta Blocker,"hypertension, hypertensive emergency in pregnancy",Cardiovascular,Safe in pregnancy. IV form for hypertensive crisis.
+Olmesartan,ARB,hypertension,Cardiovascular,Rarely causes sprue-like enteropathy. Monitor accordingly.
+Ivabradine,Heart Rate Reducer,"heart failure with reduced ejection fraction, angina",Cardiovascular,For resting HR >70 bpm. Avoid in severe liver disease.
+Sacubitril,Neprilysin Inhibitor,used in combination with valsartan for HFrEF,Cardiovascular,Part of ARNI combination drug Entresto.
+Atorvastatin 40mg,Statin,"high cardiovascular risk, very high LDL",Cardiovascular,Higher dose — monitor for muscle pain.
+Prazosin,Alpha Blocker,"hypertension, PTSD nightmares, heart failure",Cardiovascular,First-dose syncope possible. Start with low dose.
+Enalapril,ACE Inhibitor,"hypertension, heart failure, left ventricular dysfunction",Cardiovascular,First dose hypotension risk. Take at bedtime initially.
+Flecainide,Class IC Antiarrhythmic,"supraventricular tachycardia, paroxysmal AFib",Cardiovascular,Avoid in structural heart disease. Monitor ECG.
+Sacubitril/Valsartan,ARNI,heart failure with reduced ejection fraction,Cardiovascular,Do not combine with ACE inhibitor. Monitor blood pressure.
+Metoprolol,Beta-blocker,"hypertension, angina, heart failure, arrhythmia",Cardiovascular,Do not stop abruptly. Monitor pulse regularly.
+Warfarin,Anticoagulant,"atrial fibrillation, blood clots, stroke prevention",Cardiovascular,Regular INR monitoring required. Avoid vitamin K-rich foods.
+Salbutamol,Beta-2 Agonist,"asthma, COPD, bronchospasm, wheeze",Respiratory,Reliever inhaler. Excessive use indicates poor control.
+Paracetamol,Analgesic/Antipyretic,"fever, mild to moderate pain, headache",General,Do not exceed 4g daily. Hepatotoxic in overdose.
+Amlodipine,Calcium Channel Blocker,"hypertension, angina, coronary artery disease",Cardiovascular,May cause ankle swelling. Take at same time daily.
+Azilsartan,ARB,hypertension,Cardiovascular,Strong and sustained blood pressure lowering.
+Insulin Glargine,Basal Insulin,"type 1 diabetes, type 2 diabetes",Endocrine,Inject subcutaneously at same time each day. Do not mix.
+Metoclopramide,Prokinetic/Antiemetic,"nausea, vomiting, gastroparesis, GERD",Gastroenterology,Avoid long-term use — risk of tardive dyskinesia.
+Prednisolone,Corticosteroid,"asthma, COPD exacerbation, autoimmune diseases, inflammation",Respiratory/Immune,Take in morning with food. Taper dose gradually.
+Sotalol,Antiarrhythmic,"atrial fibrillation, ventricular arrhythmia",Cardiovascular,QT prolongation risk. Monitor ECG.
+Simvastatin,Statin,"high cholesterol, cardiovascular risk prevention",Cardiovascular,Avoid grapefruit. Risk of myopathy at high doses.
+Propranolol,Beta-blocker,"hypertension, angina, arrhythmia, anxiety, tremor",Cardiovascular,Masks hypoglycaemia symptoms. Avoid in asthma.
+Metoclopramide,Prokinetic/Antiemetic,"nausea, vomiting, gastroparesis, GERD",Gastroenterology,Avoid long-term use — risk of tardive dyskinesia.
+Nitroglycerin,Nitrate,"angina, chest pain, coronary artery spasm",Cardiovascular,May cause headache. Sit before taking. Store away from light.
+Ramipril,ACE Inhibitor,"hypertension, post-MI, heart failure",Cardiovascular,Dry cough is common side effect. Avoid in pregnancy.
+Procainamide,Class IA Antiarrhythmic,"ventricular arrhythmia, Wolff-Parkinson-White",Cardiovascular,Lupus-like syndrome with long-term use. IV formulation.
+Furosemide,Loop Diuretic,"heart failure, edema, hypertension, fluid retention",Cardiovascular,Monitor electrolytes. Take in morning to avoid nocturia.
+Lercanidipine,Dihydropyridine CCB,hypertension,Cardiovascular,Take before meal. Lower side effect profile.
+Lisinopril,ACE Inhibitor,"hypertension, heart failure, diabetic nephropathy",Cardiovascular,Monitor potassium levels. Avoid in pregnancy.
+Vernakalant,Antiarrhythmic,acute conversion of recent-onset atrial fibrillation,Cardiovascular,IV only. Effective in <48 hr AFib onset.
+Acetazolamide,Carbonic Anhydrase Inhibitor,"altitude sickness, glaucoma, epilepsy, edema",Miscellaneous,Monitor electrolytes. Contraindicated in sulfa allergy.
+Nitroglycerin,Nitrate,"angina, chest pain, coronary artery spasm",Cardiovascular,May cause headache. Sit before taking. Store away from light.
+Diltiazem,Calcium Channel Blocker,"angina, hypertension, atrial fibrillation",Cardiovascular,Monitor heart rate. May interact with statins.
+Candesartan,ARB,"hypertension, heart failure, diabetic nephropathy",Cardiovascular,One of the most potent ARBs. Well tolerated.
+Niacin,Vitamin B3/Antidyslipidemic,"high triglycerides, low HDL, hyperlipidemia",Cardiovascular,Flushing is common — take aspirin 30 min before.
+Sacubitril,Neprilysin Inhibitor,used in combination with valsartan for HFrEF,Cardiovascular,Part of ARNI combination drug Entresto.
+Verapamil,Calcium Channel Blocker,"arrhythmia, hypertension, angina",Cardiovascular,Avoid with beta-blockers. May cause constipation.
+Rivaroxaban,Direct Oral Anticoagulant,"DVT, pulmonary embolism, atrial fibrillation",Cardiovascular,Take with evening meal for AFib. Avoid in severe renal impairment.
+Quinidine,Class IA Antiarrhythmic,"atrial fibrillation, atrial flutter, ventricular tachycardia",Cardiovascular,Monitor QT interval. Cinchonism side effects.
+Empagliflozin,SGLT2 Inhibitor,"heart failure, type 2 diabetes, cardiovascular risk reduction",Cardiovascular,Risk of genital infections. Maintain hydration.
+Propranolol,Beta-blocker,"hypertension, angina, arrhythmia, anxiety, tremor",Cardiovascular,Masks hypoglycaemia symptoms. Avoid in asthma.
+Alteplase,Thrombolytic,"acute MI, ischemic stroke, pulmonary embolism",Cardiovascular,Bleeding risk is high. Used in emergency settings only.
+Lisinopril,ACE Inhibitor,"hypertension, heart failure, diabetic nephropathy",Cardiovascular,Monitor potassium levels. Avoid in pregnancy.
+Paracetamol,Analgesic/Antipyretic,"fever, mild to moderate pain, headache",General,Do not exceed 4g daily. Hepatotoxic in overdose.
+Irbesartan,ARB,"hypertension, diabetic nephropathy",Cardiovascular,Monitor renal function. Avoid bilateral renal artery stenosis.
+Empagliflozin,SGLT2 Inhibitor,"heart failure, type 2 diabetes, cardiovascular risk reduction",Cardiovascular,Risk of genital infections. Maintain hydration.
+Irbesartan,ARB,"hypertension, diabetic nephropathy",Cardiovascular,Monitor renal function. Avoid bilateral renal artery stenosis.
+Labetalol,Alpha/Beta Blocker,"hypertension, hypertensive emergency in pregnancy",Cardiovascular,Safe in pregnancy. IV form for hypertensive crisis.
+Sotalol,Antiarrhythmic,"atrial fibrillation, ventricular arrhythmia",Cardiovascular,QT prolongation risk. Monitor ECG.
+Enoxaparin,Low Molecular Weight Heparin,"DVT prophylaxis, ACS, PE",Cardiovascular,Subcutaneous injection. Reduce dose in renal impairment.
+Mannitol,Osmotic Diuretic,"raised intracranial pressure, acute glaucoma",Neurology/Renal,IV infusion. Monitor serum osmolarity.
+Candesartan,ARB,"hypertension, heart failure, diabetic nephropathy",Cardiovascular,One of the most potent ARBs. Well tolerated.
+Paracetamol,Analgesic/Antipyretic,"fever, mild to moderate pain, headache",General,Do not exceed 4g daily. Hepatotoxic in overdose.
+Losartan,ARB,"hypertension, diabetic nephropathy, heart failure",Cardiovascular,Less likely to cause cough than ACE inhibitors.
+Insulin Glargine,Basal Insulin,"type 1 diabetes, type 2 diabetes",Endocrine,Inject subcutaneously at same time each day. Do not mix.
+Adenosine,Antiarrhythmic,"supraventricular tachycardia, SVT",Cardiovascular,Short-acting. Given IV in hospital setting only.
+Apixaban,Direct Oral Anticoagulant,"atrial fibrillation, DVT, stroke prevention",Cardiovascular,No routine monitoring needed. Report unusual bleeding.
+Indapamide,Thiazide-like Diuretic,"hypertension, fluid retention",Cardiovascular,Better metabolic profile than HCTZ.
+Sacubitril/Valsartan,ARNI,heart failure with reduced ejection fraction,Cardiovascular,Do not combine with ACE inhibitor. Monitor blood pressure.
+Losartan,ARB,"hypertension, diabetic nephropathy, heart failure",Cardiovascular,Less likely to cause cough than ACE inhibitors.
+Acetazolamide,Carbonic Anhydrase Inhibitor,"altitude sickness, glaucoma, epilepsy, edema",Miscellaneous,Monitor electrolytes. Contraindicated in sulfa allergy.
+Niacin,Vitamin B3/Antidyslipidemic,"high triglycerides, low HDL, hyperlipidemia",Cardiovascular,Flushing is common — take aspirin 30 min before.
+Olmesartan,ARB,hypertension,Cardiovascular,Rarely causes sprue-like enteropathy. Monitor accordingly.
+Felodipine,Dihydropyridine CCB,"hypertension, angina",Cardiovascular,Avoid grapefruit juice. Swallow whole.
+Rivaroxaban,Direct Oral Anticoagulant,"DVT, pulmonary embolism, atrial fibrillation",Cardiovascular,Take with evening meal for AFib. Avoid in severe renal impairment.
+Propafenone,Class IC Antiarrhythmic,"atrial fibrillation, SVT, ventricular arrhythmia",Cardiovascular,Avoid in heart failure. CYP interactions.
+Metformin,Biguanide,"type 2 diabetes, prediabetes, insulin resistance",Endocrine,Take with meals. Stop before contrast procedures.
+Labetalol,Alpha/Beta Blocker,"hypertension, hypertensive emergency in pregnancy",Cardiovascular,Safe in pregnancy. IV form for hypertensive crisis.
+Nitroglycerin,Nitrate,"angina, chest pain, coronary artery spasm",Cardiovascular,May cause headache. Sit before taking. Store away from light.
+Losartan,ARB,"hypertension, diabetic nephropathy, heart failure",Cardiovascular,Less likely to cause cough than ACE inhibitors.
+Fosinopril,ACE Inhibitor,"hypertension, heart failure",Cardiovascular,Dual elimination — safer in renal impairment.
+Quinapril,ACE Inhibitor,"hypertension, heart failure",Cardiovascular,May cause first-dose hypotension. Monitor potassium.
+Doxazosin,Alpha Blocker,"hypertension, benign prostatic hyperplasia",Cardiovascular/Urology,First-dose hypotension. Take at bedtime.
+Aspirin,Antiplatelet,"chest pain, heart attack prevention, clot prevention",Cardiovascular,Take with food to avoid stomach upset. Do not use if allergic to NSAIDs.
+Eplerenone,Mineralocorticoid Antagonist,"post-MI heart failure, hypertension",Cardiovascular,Monitor potassium. Avoid with strong CYP3A4 inhibitors.
+Isosorbide Mononitrate,Nitrate,"angina prophylaxis, heart failure",Cardiovascular,Allow nitrate-free period daily to avoid tolerance.
+Niacin,Vitamin B3/Antidyslipidemic,"high triglycerides, low HDL, hyperlipidemia",Cardiovascular,Flushing is common — take aspirin 30 min before.
+Telmisartan,ARB,"hypertension, cardiovascular risk, diabetic nephropathy",Cardiovascular,Check renal function and potassium. Safe alternative to ACE inhibitors.
+Amiodarone,Antiarrhythmic,"ventricular tachycardia, atrial fibrillation, arrhythmia",Cardiovascular,Multiple organ toxicity risk. Regular monitoring essential.
+Fosinopril,ACE Inhibitor,"hypertension, heart failure",Cardiovascular,Dual elimination — safer in renal impairment.
+Digoxin,Cardiac Glycoside,"heart failure, atrial fibrillation, atrial flutter",Cardiovascular,Narrow therapeutic window. Report nausea or visual changes.
+Norepinephrine,Vasopressor,"septic shock, hypotension, cardiogenic shock",Cardiovascular,IV infusion. Monitor peripheral perfusion.
+Phenylephrine,Vasopressor,"hypotension, nasal congestion, shock",Cardiovascular,Raises blood pressure. Avoid in hypertensive patients.
+Dobutamine,Inotrope,"acute heart failure, cardiogenic shock, stress testing",Cardiovascular,IV infusion only. Continuous cardiac monitoring required.
+Nitroprusside,Vasodilator,"hypertensive emergency, acute heart failure",Cardiovascular,IV infusion only. Risk of cyanide toxicity.
+Lidocaine IV,Class IB Antiarrhythmic,"ventricular arrhythmia, cardiac arrest (IV use)",Cardiovascular,IV use only in hospital. CNS toxicity at high doses.
+Sacubitril,Neprilysin Inhibitor,used in combination with valsartan for HFrEF,Cardiovascular,Part of ARNI combination drug Entresto.
+Cholestyramine,Bile Acid Sequestrant,"high LDL, cholestatic pruritus",Cardiovascular,Mix with liquid. Take other drugs 1 hour before or 4 hours after.
+Dapagliflozin,SGLT2 Inhibitor,"heart failure, type 2 diabetes, CKD",Cardiovascular,Hold before surgery. Risk of DKA.
+Streptokinase,Thrombolytic,"acute MI, DVT, pulmonary embolism",Cardiovascular,Allergic reactions possible. Single use only.
+Clonidine,Central Alpha Agonist,"hypertension, ADHD, opioid withdrawal",Cardiovascular,Rebound hypertension if stopped abruptly.
+Chlorthalidone,Thiazide-like Diuretic,"hypertension, heart failure prevention",Cardiovascular,Longer-acting than HCTZ. Morning dosing preferred.
+Nifedipine,Dihydropyridine CCB,"hypertension, angina, Raynaud's",Cardiovascular,Extended-release preferred. May cause reflex tachycardia.
+Verapamil,Calcium Channel Blocker,"arrhythmia, hypertension, angina",Cardiovascular,Avoid with beta-blockers. May cause constipation.
+Empagliflozin,SGLT2 Inhibitor,"heart failure, type 2 diabetes, cardiovascular risk reduction",Cardiovascular,Risk of genital infections. Maintain hydration.
+Spironolactone,Potassium-sparing Diuretic,"heart failure, hypertension, edema",Cardiovascular,Monitor potassium. Avoid in renal failure.
+Olmesartan,ARB,hypertension,Cardiovascular,Rarely causes sprue-like enteropathy. Monitor accordingly.
+Alteplase,Thrombolytic,"acute MI, ischemic stroke, pulmonary embolism",Cardiovascular,Bleeding risk is high. Used in emergency settings only.
+Hydralazine,Vasodilator,"hypertension, heart failure (with nitrates)",Cardiovascular,May cause lupus-like syndrome. Take with food.
+Quinapril,ACE Inhibitor,"hypertension, heart failure",Cardiovascular,May cause first-dose hypotension. Monitor potassium.
+Omeprazole,Proton Pump Inhibitor,"GERD, peptic ulcer, acid reflux, heartburn",Gastroenterology,Take 30 minutes before meals. Long-term use increases fracture risk.
+Ivermectin,Antiparasitic,"scabies, onchocerciasis, strongyloidiasis",Infectious Disease,Take on empty stomach. Single or short-course treatment.
+Spironolactone,Potassium-sparing Diuretic,"heart failure, hypertension, edema",Cardiovascular,Monitor potassium. Avoid in renal failure.
+Ivabradine,Heart Rate Reducer,"heart failure with reduced ejection fraction, angina",Cardiovascular,For resting HR >70 bpm. Avoid in severe liver disease.
+Flecainide,Class IC Antiarrhythmic,"supraventricular tachycardia, paroxysmal AFib",Cardiovascular,Avoid in structural heart disease. Monitor ECG.
+Prednisolone,Corticosteroid,"asthma, COPD exacerbation, autoimmune diseases, inflammation",Respiratory/Immune,Take in morning with food. Taper dose gradually.
+Amiodarone,Antiarrhythmic,"ventricular tachycardia, atrial fibrillation, arrhythmia",Cardiovascular,Multiple organ toxicity risk. Regular monitoring essential.
+Spironolactone,Potassium-sparing Diuretic,"heart failure, hypertension, edema",Cardiovascular,Monitor potassium. Avoid in renal failure.
+Mexiletine,Class IB Antiarrhythmic,"ventricular arrhythmia, neuropathic pain",Cardiovascular,Take with food. Monitor QRS duration.
+Metoclopramide,Prokinetic/Antiemetic,"nausea, vomiting, gastroparesis, GERD",Gastroenterology,Avoid long-term use — risk of tardive dyskinesia.
+Sacubitril/Valsartan,ARNI,heart failure with reduced ejection fraction,Cardiovascular,Do not combine with ACE inhibitor. Monitor blood pressure.
+Bumetanide,Loop Diuretic,"heart failure, edema, hypertension",Cardiovascular,More potent than furosemide per mg. Monitor electrolytes.
+Candesartan,ARB,"hypertension, heart failure, diabetic nephropathy",Cardiovascular,One of the most potent ARBs. Well tolerated.
+Acetazolamide,Carbonic Anhydrase Inhibitor,"altitude sickness, glaucoma, epilepsy, edema",Miscellaneous,Monitor electrolytes. Contraindicated in sulfa allergy.
+Olmesartan,ARB,hypertension,Cardiovascular,Rarely causes sprue-like enteropathy. Monitor accordingly.
+Lercanidipine,Dihydropyridine CCB,hypertension,Cardiovascular,Take before meal. Lower side effect profile.
+Valsartan,ARB,"hypertension, heart failure, post-MI",Cardiovascular,Monitor renal function and potassium.
+Candesartan,ARB,"hypertension, heart failure, diabetic nephropathy",Cardiovascular,One of the most potent ARBs. Well tolerated.
+Ibuprofen,NSAID,"pain, fever, inflammation, arthritis",Musculoskeletal,Take with food. Avoid in heart disease or peptic ulcer.
+Fenofibrate,Fibrate,"hypertriglyceridemia, mixed dyslipidemia",Cardiovascular,Take with food. Monitor renal function.
+Atorvastatin,Statin,"high cholesterol, hyperlipidemia, atherosclerosis",Cardiovascular,Take at night. Monitor liver enzymes periodically.
+Irbesartan,ARB,"hypertension, diabetic nephropathy",Cardiovascular,Monitor renal function. Avoid bilateral renal artery stenosis.
+Dofetilide,Class III Antiarrhythmic,"atrial fibrillation, atrial flutter",Cardiovascular,Requires in-hospital initiation due to QT risk.
+Fluvastatin,Statin,"hyperlipidemia, cardiovascular risk",Cardiovascular,Take at bedtime. Extended-release form available.
+Felodipine,Dihydropyridine CCB,"hypertension, angina",Cardiovascular,Avoid grapefruit juice. Swallow whole.
+Telmisartan,ARB,"hypertension, cardiovascular risk, diabetic nephropathy",Cardiovascular,Check renal function and potassium. Safe alternative to ACE inhibitors.
+Pravastatin,Statin,"high cholesterol, cardiovascular prevention",Cardiovascular,Fewer drug interactions than other statins.
+Sotalol,Antiarrhythmic,"atrial fibrillation, ventricular arrhythmia",Cardiovascular,QT prolongation risk. Monitor ECG.
+Flecainide,Class IC Antiarrhythmic,"supraventricular tachycardia, paroxysmal AFib",Cardiovascular,Avoid in structural heart disease. Monitor ECG.
+Bisoprolol,Beta-blocker,"heart failure, hypertension, angina",Cardiovascular,Taper off gradually. Monitor blood pressure.
+Verapamil,Calcium Channel Blocker,"arrhythmia, hypertension, angina",Cardiovascular,Avoid with beta-blockers. May cause constipation.
+Apixaban,Direct Oral Anticoagulant,"atrial fibrillation, DVT, stroke prevention",Cardiovascular,No routine monitoring needed. Report unusual bleeding.
+Empagliflozin,SGLT2 Inhibitor,"heart failure, type 2 diabetes, cardiovascular risk reduction",Cardiovascular,Risk of genital infections. Maintain hydration.
+Metoclopramide,Prokinetic/Antiemetic,"nausea, vomiting, gastroparesis, GERD",Gastroenterology,Avoid long-term use — risk of tardive dyskinesia.
+Fenofibrate,Fibrate,"hypertriglyceridemia, mixed dyslipidemia",Cardiovascular,Take with food. Monitor renal function.
+Amiodarone,Antiarrhythmic,"ventricular tachycardia, atrial fibrillation, arrhythmia",Cardiovascular,Multiple organ toxicity risk. Regular monitoring essential.
+Morphine,Opioid Analgesic,"severe pain, acute pulmonary edema, cancer pain",Pain Management,Respiratory depression risk. Use with caution.
+Nifedipine,Dihydropyridine CCB,"hypertension, angina, Raynaud's",Cardiovascular,Extended-release preferred. May cause reflex tachycardia.
+Atorvastatin,Statin,"high cholesterol, hyperlipidemia, atherosclerosis",Cardiovascular,Take at night. Monitor liver enzymes periodically.
+Gemfibrozil,Fibrate,"hypertriglyceridemia, low HDL",Cardiovascular,Avoid with statins — myopathy risk. Take 30 min before meals.
+Dronedarone,Antiarrhythmic,atrial fibrillation maintenance (non-permanent),Cardiovascular,Avoid in permanent AFib or heart failure. Hepatotoxicity risk.
+Levothyroxine,Thyroid Hormone,"hypothyroidism, thyroid hormone deficiency",Endocrine,Take on empty stomach. Recheck TSH every 6 months.
+Prazosin,Alpha Blocker,"hypertension, PTSD nightmares, heart failure",Cardiovascular,First-dose syncope possible. Start with low dose.
+Warfarin,Anticoagulant,"atrial fibrillation, blood clots, stroke prevention",Cardiovascular,Regular INR monitoring required. Avoid vitamin K-rich foods.
+Amlodipine,Calcium Channel Blocker,"hypertension, angina, coronary artery disease",Cardiovascular,May cause ankle swelling. Take at same time daily.
+Digoxin,Cardiac Glycoside,"heart failure, atrial fibrillation, atrial flutter",Cardiovascular,Narrow therapeutic window. Report nausea or visual changes.
+Ondansetron,5-HT3 Antagonist,"nausea, vomiting, chemotherapy-induced nausea",Gastroenterology,May prolong QT interval. Use with caution in cardiac patients.
+Vernakalant,Antiarrhythmic,acute conversion of recent-onset atrial fibrillation,Cardiovascular,IV only. Effective in <48 hr AFib onset.
+Metoclopramide,Prokinetic/Antiemetic,"nausea, vomiting, gastroparesis, GERD",Gastroenterology,Avoid long-term use — risk of tardive dyskinesia.
+Prazosin,Alpha Blocker,"hypertension, PTSD nightmares, heart failure",Cardiovascular,First-dose syncope possible. Start with low dose.
+Doxazosin,Alpha Blocker,"hypertension, benign prostatic hyperplasia",Cardiovascular/Urology,First-dose hypotension. Take at bedtime.
+Rivaroxaban,Direct Oral Anticoagulant,"DVT, pulmonary embolism, atrial fibrillation",Cardiovascular,Take with evening meal for AFib. Avoid in severe renal impairment.
+Fluvastatin,Statin,"hyperlipidemia, cardiovascular risk",Cardiovascular,Take at bedtime. Extended-release form available.
+Fluvastatin,Statin,"hyperlipidemia, cardiovascular risk",Cardiovascular,Take at bedtime. Extended-release form available.
+Furosemide,Loop Diuretic,"heart failure, edema, hypertension, fluid retention",Cardiovascular,Monitor electrolytes. Take in morning to avoid nocturia.
+Amlodipine,Calcium Channel Blocker,"hypertension, angina, coronary artery disease",Cardiovascular,May cause ankle swelling. Take at same time daily.
+Levothyroxine,Thyroid Hormone,"hypothyroidism, thyroid hormone deficiency",Endocrine,Take on empty stomach. Recheck TSH every 6 months.
+Methyldopa,Central Antihypertensive,"hypertension in pregnancy, essential hypertension",Cardiovascular,Drug of choice in gestational hypertension.
+Apixaban,Direct Oral Anticoagulant,"atrial fibrillation, DVT, stroke prevention",Cardiovascular,No routine monitoring needed. Report unusual bleeding.
+Enoxaparin,Low Molecular Weight Heparin,"DVT prophylaxis, ACS, PE",Cardiovascular,Subcutaneous injection. Reduce dose in renal impairment.
+Cholestyramine,Bile Acid Sequestrant,"high LDL, cholestatic pruritus",Cardiovascular,Mix with liquid. Take other drugs 1 hour before or 4 hours after.
+Morphine,Opioid Analgesic,"severe pain, acute pulmonary edema, cancer pain",Pain Management,Respiratory depression risk. Use with caution.
+Apixaban,Direct Oral Anticoagulant,"atrial fibrillation, DVT, stroke prevention",Cardiovascular,No routine monitoring needed. Report unusual bleeding.
+Disopyramide,Class IA Antiarrhythmic,"atrial flutter, ventricular tachycardia, hypertrophic cardiomyopathy",Cardiovascular,Anticholinergic side effects. Negative inotrope.
+Lidocaine IV,Class IB Antiarrhythmic,"ventricular arrhythmia, cardiac arrest (IV use)",Cardiovascular,IV use only in hospital. CNS toxicity at high doses.
+Vernakalant,Antiarrhythmic,acute conversion of recent-onset atrial fibrillation,Cardiovascular,IV only. Effective in <48 hr AFib onset.
+Olmesartan,ARB,hypertension,Cardiovascular,Rarely causes sprue-like enteropathy. Monitor accordingly.
+Sacubitril,Neprilysin Inhibitor,used in combination with valsartan for HFrEF,Cardiovascular,Part of ARNI combination drug Entresto.
+Dopamine,Vasopressor/Inotrope,"cardiogenic shock, acute heart failure",Cardiovascular,Dose-dependent effects. Monitor urine output.
+Amiodarone,Antiarrhythmic,"ventricular tachycardia, atrial fibrillation, arrhythmia",Cardiovascular,Multiple organ toxicity risk. Regular monitoring essential.
+Eplerenone,Mineralocorticoid Antagonist,"post-MI heart failure, hypertension",Cardiovascular,Monitor potassium. Avoid with strong CYP3A4 inhibitors.
+Aliskiren,Direct Renin Inhibitor,hypertension,Cardiovascular,Avoid with ACE inhibitor or ARB in diabetics.
+Prednisolone,Corticosteroid,"asthma, COPD exacerbation, autoimmune diseases, inflammation",Respiratory/Immune,Take in morning with food. Taper dose gradually.
+Mexiletine,Class IB Antiarrhythmic,"ventricular arrhythmia, neuropathic pain",Cardiovascular,Take with food. Monitor QRS duration.
+Atorvastatin,Statin,"high cholesterol, hyperlipidemia, atherosclerosis",Cardiovascular,Take at night. Monitor liver enzymes periodically.
+Candesartan,ARB,"hypertension, heart failure, diabetic nephropathy",Cardiovascular,One of the most potent ARBs. Well tolerated.
+Apixaban,Direct Oral Anticoagulant,"atrial fibrillation, DVT, stroke prevention",Cardiovascular,No routine monitoring needed. Report unusual bleeding.
+Heparin,Anticoagulant,"DVT, PE, ACS, atrial fibrillation, clot prevention",Cardiovascular,Monitor aPTT. Risk of HIT with prolonged use.
+Rivaroxaban,Direct Oral Anticoagulant,"DVT, pulmonary embolism, atrial fibrillation",Cardiovascular,Take with evening meal for AFib. Avoid in severe renal impairment.
+Aliskiren,Direct Renin Inhibitor,hypertension,Cardiovascular,Avoid with ACE inhibitor or ARB in diabetics.
+Fluvastatin,Statin,"hyperlipidemia, cardiovascular risk",Cardiovascular,Take at bedtime. Extended-release form available.
+Alteplase,Thrombolytic,"acute MI, ischemic stroke, pulmonary embolism",Cardiovascular,Bleeding risk is high. Used in emergency settings only.
+Chlorthalidone,Thiazide-like Diuretic,"hypertension, heart failure prevention",Cardiovascular,Longer-acting than HCTZ. Morning dosing preferred.
+Furosemide,Loop Diuretic,"heart failure, edema, hypertension, fluid retention",Cardiovascular,Monitor electrolytes. Take in morning to avoid nocturia.
+Sotalol,Antiarrhythmic,"atrial fibrillation, ventricular arrhythmia",Cardiovascular,QT prolongation risk. Monitor ECG.
+Doxazosin,Alpha Blocker,"hypertension, benign prostatic hyperplasia",Cardiovascular/Urology,First-dose hypotension. Take at bedtime.
+Metoprolol,Beta-blocker,"hypertension, angina, heart failure, arrhythmia",Cardiovascular,Do not stop abruptly. Monitor pulse regularly.
+Rosuvastatin,Statin,"high LDL cholesterol, cardiovascular risk reduction",Cardiovascular,Check liver function tests. Avoid excessive alcohol.
+Aliskiren,Direct Renin Inhibitor,hypertension,Cardiovascular,Avoid with ACE inhibitor or ARB in diabetics.
+Lidocaine IV,Class IB Antiarrhythmic,"ventricular arrhythmia, cardiac arrest (IV use)",Cardiovascular,IV use only in hospital. CNS toxicity at high doses.
+Enalapril,ACE Inhibitor,"hypertension, heart failure, left ventricular dysfunction",Cardiovascular,First dose hypotension risk. Take at bedtime initially.
+Morphine,Opioid Analgesic,"severe pain, acute pulmonary edema, cancer pain",Pain Management,Respiratory depression risk. Use with caution.
+Atorvastatin,Statin,"high cholesterol, hyperlipidemia, atherosclerosis",Cardiovascular,Take at night. Monitor liver enzymes periodically.
+Digoxin,Cardiac Glycoside,"heart failure, atrial fibrillation, atrial flutter",Cardiovascular,Narrow therapeutic window. Report nausea or visual changes.
+Clopidogrel,Antiplatelet,"stroke prevention, heart attack, peripheral artery disease",Cardiovascular,Avoid with PPIs. Report unusual bleeding.
+Irbesartan,ARB,"hypertension, diabetic nephropathy",Cardiovascular,Monitor renal function. Avoid bilateral renal artery stenosis.
+Digoxin,Cardiac Glycoside,"heart failure, atrial fibrillation, atrial flutter",Cardiovascular,Narrow therapeutic window. Report nausea or visual changes.
+Carvedilol,Alpha/Beta-blocker,"heart failure, hypertension, post-MI",Cardiovascular,Take with food. Monitor blood sugar in diabetics.
+Felodipine,Dihydropyridine CCB,"hypertension, angina",Cardiovascular,Avoid grapefruit juice. Swallow whole.
+Rosuvastatin,Statin,"high LDL cholesterol, cardiovascular risk reduction",Cardiovascular,Check liver function tests. Avoid excessive alcohol.
+Mexiletine,Class IB Antiarrhythmic,"ventricular arrhythmia, neuropathic pain",Cardiovascular,Take with food. Monitor QRS duration.
+Empagliflozin,SGLT2 Inhibitor,"heart failure, type 2 diabetes, cardiovascular risk reduction",Cardiovascular,Risk of genital infections. Maintain hydration.
+Ezetimibe,Cholesterol Absorption Inhibitor,"high LDL, hypercholesterolemia",Cardiovascular,Can be combined with statins. Well tolerated.
+Dobutamine,Inotrope,"acute heart failure, cardiogenic shock, stress testing",Cardiovascular,IV infusion only. Continuous cardiac monitoring required.
+Metformin,Biguanide,"type 2 diabetes, prediabetes, insulin resistance",Endocrine,Take with meals. Stop before contrast procedures.
+Furosemide,Loop Diuretic,"heart failure, edema, hypertension, fluid retention",Cardiovascular,Monitor electrolytes. Take in morning to avoid nocturia.
+Azilsartan,ARB,hypertension,Cardiovascular,Strong and sustained blood pressure lowering.
+Morphine,Opioid Analgesic,"severe pain, acute pulmonary edema, cancer pain",Pain Management,Respiratory depression risk. Use with caution.
+Indapamide,Thiazide-like Diuretic,"hypertension, fluid retention",Cardiovascular,Better metabolic profile than HCTZ.
+Apixaban,Direct Oral Anticoagulant,"atrial fibrillation, DVT, stroke prevention",Cardiovascular,No routine monitoring needed. Report unusual bleeding.
+Prazosin,Alpha Blocker,"hypertension, PTSD nightmares, heart failure",Cardiovascular,First-dose syncope possible. Start with low dose.
+Irbesartan,ARB,"hypertension, diabetic nephropathy",Cardiovascular,Monitor renal function. Avoid bilateral renal artery stenosis.
+Azilsartan,ARB,hypertension,Cardiovascular,Strong and sustained blood pressure lowering.
+Amiodarone,Antiarrhythmic,"ventricular tachycardia, atrial fibrillation, arrhythmia",Cardiovascular,Multiple organ toxicity risk. Regular monitoring essential.
+Enalapril,ACE Inhibitor,"hypertension, heart failure, left ventricular dysfunction",Cardiovascular,First dose hypotension risk. Take at bedtime initially.
+Enoxaparin,Low Molecular Weight Heparin,"DVT prophylaxis, ACS, PE",Cardiovascular,Subcutaneous injection. Reduce dose in renal impairment.
+Mannitol,Osmotic Diuretic,"raised intracranial pressure, acute glaucoma",Neurology/Renal,IV infusion. Monitor serum osmolarity.
+Ibutilide,Class III Antiarrhythmic,acute conversion of atrial flutter or fibrillation,Cardiovascular,IV only in hospital. QT prolongation risk.
+Fenofibrate,Fibrate,"hypertriglyceridemia, mixed dyslipidemia",Cardiovascular,Take with food. Monitor renal function.

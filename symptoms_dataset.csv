@@ -1,0 +1,501 @@
+symptom,description,condition,severity,advice
+chest pain,Sharp or crushing pain in the chest area,Angina / Myocardial Infarction,Critical,Seek emergency care immediately. Call 112. Chew aspirin if not allergic.
+severe chest tightness,Squeezing or pressure sensation in chest,Angina / Stable CAD,High,"Rest immediately. If unresolved in 5 minutes, seek emergency care."
+mild shortness of breath,"Difficulty breathing, dyspnoea at rest or exertion",Heart Failure / Pulmonary Embolism,High,Sit upright. Seek medical evaluation urgently.
+persistent palpitations,"Rapid, fluttering, or pounding heartbeat",Arrhythmia / Atrial Fibrillation,Moderate,Note frequency and duration. Avoid caffeine. Consult cardiologist.
+acute dizziness,Lightheadedness or feeling faint,Low Blood Pressure / Arrhythmia,Moderate,Sit or lie down. Hydrate. Avoid sudden standing.
+recurrent syncope,Sudden loss of consciousness or fainting,Vasovagal Syncope / Cardiac Arrhythmia,High,Seek immediate evaluation. Avoid driving until cleared.
+worsening fatigue,Persistent tiredness not relieved by rest,Heart Failure / Anaemia / Hypothyroidism,Moderate,Rest and monitor. Investigate underlying cause with blood tests.
+ankle swelling,Bilateral swelling of feet and ankles,Heart Failure / Venous Insufficiency,Moderate,Elevate legs. Reduce salt intake. Consult physician.
+severe leg swelling,Unilateral or bilateral lower limb oedema,DVT / Heart Failure / Venous Disease,Moderate,Urgent evaluation if unilateral — rule out DVT.
+mild left arm pain,Pain radiating down the left arm,Myocardial Infarction / Angina,Critical,Call emergency services immediately — classic MI symptom.
+persistent jaw pain,Aching or pressure in the jaw area,Referred Cardiac Pain / TMJ,High,"If accompanied by chest pain, call 112 immediately."
+acute neck pain radiating to chest,Pain starting at neck spreading to chest,Angina / MI / Musculoskeletal,High,Seek immediate medical assessment if associated with exertion.
+recurrent sweating profusely,Sudden cold sweats without exertion,Acute MI / Hypoglycaemia / Anxiety,High,Emergency evaluation recommended. Do not wait.
+worsening nausea with chest pain,Feeling sick accompanied by chest discomfort,Myocardial Infarction,Critical,Treat as cardiac emergency. Call ambulance immediately.
+rapid heartbeat,Heart rate over 100 bpm at rest,Tachycardia / Hyperthyroidism / Anxiety,Moderate,"Check pulse. If sustained, seek ECG evaluation."
+severe slow heartbeat,Heart rate below 60 bpm with symptoms,Bradycardia / Heart Block / Drug effect,Moderate,Stop offending medications if applicable. Seek cardiac review.
+mild irregular heartbeat,Skipped or extra beats felt in chest,Ectopic Beats / AFib / Arrhythmia,Moderate,Record episodes. Avoid triggers. Consult cardiologist for Holter.
+persistent breathlessness on lying flat,Orthopnoea — unable to breathe when supine,Heart Failure / Pulmonary Oedema,High,Prop up with pillows. Urgent medical evaluation.
+acute waking up breathless,Paroxysmal nocturnal dyspnoea,Acute Pulmonary Oedema / Left Heart Failure,Critical,Sit upright. Seek emergency help if severe.
+recurrent blood in phlegm,Haemoptysis — coughing up blood,Pulmonary Embolism / TB / Lung Cancer,High,Immediate evaluation required. Do not ignore.
+worsening high blood pressure reading,Systolic >140 or diastolic >90 mmHg,Hypertension,Moderate,Take medications as prescribed. Reduce salt and stress. Monitor daily.
+very high blood pressure,Systolic >180 mmHg (hypertensive crisis),Hypertensive Emergency,Critical,Seek emergency care immediately. Do not drive yourself.
+severe low blood pressure,Systolic <90 mmHg with symptoms,Hypotension / Shock / Dehydration,High,Lie flat with legs elevated. Hydrate. Call ambulance if unconscious.
+mild cold extremities,Hands and feet cold even in warm conditions,Peripheral Arterial Disease / Raynaud's,Moderate,Keep warm. Avoid smoking. Consult vascular specialist.
+persistent leg cramps at night,Painful calf cramps during sleep,Electrolyte Imbalance / Peripheral Vascular Disease,Low,Stretch legs before sleep. Stay hydrated. Review medications.
+acute claudication,Calf pain on walking relieved by rest,Peripheral Arterial Disease,Moderate,Exercise rehabilitation. Avoid smoking. Vascular referral.
+recurrent bluish lips or fingernails,Cyanosis — blue discolouration,Low Oxygen Saturation / Heart Failure / PE,Critical,Emergency evaluation immediately. Check SpO2.
+worsening visible neck vein pulsation,Distended jugular veins (JVD),Right Heart Failure / Cardiac Tamponade,High,Urgent cardiac evaluation required.
+unexplained weight gain,Rapid weight gain (>2 kg in 2 days),Fluid Retention / Heart Failure,Moderate,Report to cardiologist. Adjust diuretic if prescribed.
+severe night sweats,Excessive sweating during sleep,Lymphoma / TB / Menopause / Endocarditis,Moderate,Investigate with blood tests. Rule out infection or malignancy.
+mild fever with heart murmur,Pyrexia with cardiac auscultation abnormality,Infective Endocarditis,Critical,Blood cultures and echocardiogram urgently required.
+persistent sudden confusion,Acute onset mental status changes,Stroke / Hypoglycaemia / Hypotension,Critical,Call emergency services immediately — possible stroke.
+acute sudden weakness one side,Unilateral arm or leg weakness,Stroke / TIA,Critical,FAST assessment. Call 112 immediately.
+recurrent sudden speech difficulty,Slurred or absent speech,Stroke / TIA,Critical,Emergency — call ambulance. Time is brain.
+worsening headache at back of neck,"Occipital headache, worst ever",Hypertensive Emergency / Subarachnoid Haemorrhage,Critical,Emergency CT scan and evaluation required immediately.
+ringing in ears,Tinnitus — persistent ringing or buzzing,Hypertension / Ototoxic Drugs / Meniere's,Low,Audiological assessment. Check medications. Monitor BP.
+severe poor exercise tolerance,Unable to climb stairs or walk without breathlessness,Heart Failure / COPD / Deconditioning,Moderate,Cardiac workup. Pulmonary function tests. Graduated exercise.
+mild persistent dry cough,Non-productive cough lasting weeks,ACE Inhibitor Side Effect / Heart Failure,Low,"If on ACE inhibitor, switch to ARB. Investigate further."
+persistent recurrent chest infections,Frequent lower respiratory tract infections,Heart Failure / COPD / Immunodeficiency,Moderate,Investigate underlying cause. Ensure vaccinations up to date.
+acute abdominal discomfort with nausea,Right upper quadrant discomfort and nausea,Right Heart Failure / Hepatomegaly,Moderate,Liver function tests. Echocardiogram. Consult gastroenterologist.
+recurrent pulsating stomach sensation,Throbbing in abdomen felt on palpation,Abdominal Aortic Aneurysm,High,Urgent ultrasound abdomen. Vascular surgical referral.
+worsening pain between shoulder blades,Interscapular chest/back pain,Aortic Dissection / MI / Musculoskeletal,High,Rule out aortic dissection urgently — CT chest required.
+tearing back pain,Sudden severe ripping pain in the back,Aortic Dissection,Critical,Emergency — call ambulance immediately. Life-threatening.
+severe purple spots on skin,Non-blanching petechiae or purpura,Vasculitis / DIC / Thrombocytopaenia / Endocarditis,High,Urgent blood tests and specialist review required.
+mild hearing own heartbeat,Pulsatile tinnitus — hearing heartbeat in ear,Hypertension / Carotid Stenosis / Arteriovenous Malformation,Moderate,Carotid Doppler and ENT assessment recommended.
+persistent chest pain on breathing,Pleuritic chest pain worsened by inspiration,Pericarditis / Pleuritis / Pulmonary Embolism,High,"ECG, D-dimer, echo. Rule out PE urgently."
+acute sharp stabbing chest pain,Brief sharp pain in chest,Musculoskeletal / Pericarditis / Anxiety,Low-Moderate,Note relationship to exertion. If exertional — seek cardiac review.
+recurrent central crushing chest pain,Typical ischaemic chest pain with radiation,STEMI / NSTEMI,Critical,EMERGENCY. Call 112. Aspirin 300mg if not allergic.
+worsening exertional breathlessness,Breathlessness brought on by physical activity,Heart Failure / Pulmonary Hypertension / COPD,Moderate,Cardiopulmonary exercise test. Echo and spirometry.
+reduced urine output,Oliguria — less than 400ml urine daily,Acute Kidney Injury / Cardiorenal Syndrome,High,Urgent renal and cardiac evaluation. Fluid balance monitoring.
+severe high pulse rate after rest,Resting heart rate >100 bpm,Sinus Tachycardia / Sepsis / Thyrotoxicosis / AFib,Moderate,12-lead ECG. Blood tests including thyroid function.
+mild fainting during exercise,Exertional syncope,Hypertrophic Cardiomyopathy / Aortic Stenosis / Arrhythmia,Critical,Stop exercise. Seek immediate cardiac evaluation.
+persistent heart murmur detected,Abnormal heart sound on auscultation,Valvular Heart Disease / Congenital Heart Disease,Moderate,Echocardiogram to characterize murmur. Cardiology referral.
+acute poor appetite,Loss of appetite with fatigue,Heart Failure / Depression / Malignancy,Moderate,Blood tests. Nutritional assessment. Investigate underlying cause.
+recurrent frequent urination at night,Nocturia — waking >2 times to urinate,Heart Failure / Diabetes / BPH,Low,Fluid restriction in evenings. Check glucose. Consult physician.
+worsening confusion in elderly,Acute delirium in older patient,Dehydration / Infection / Medication / Heart Failure,High,Geriatric assessment. Rule out sepsis and cardiac cause.
+weight loss with sweating,Unexplained weight loss and night sweats,Tuberculosis / Lymphoma / Endocarditis / Hyperthyroidism,High,"Full blood count, blood cultures, CXR, specialist review."
+severe generalised weakness,Non-specific body weakness and fatigue,Anaemia / Heart Failure / Hypothyroidism / Electrolyte Imbalance,Moderate,Blood tests panel. ECG. Rule out reversible causes.
+mild tremor with fast heartbeat,Shaking and palpitations,Thyrotoxicosis / Anxiety / Drug Side Effect,Moderate,Thyroid function tests. 12-lead ECG.
+persistent cold sweat with nausea,Diaphoresis with vomiting,Acute Coronary Syndrome / Hypoglycaemia / Vagal Response,High,Treat as cardiac emergency. Check blood glucose.
+acute sudden back pain with hypotension,Acute back pain with low BP,Aortic Dissection / Ruptured AAA,Critical,Emergency surgery consult. CT aortogram stat.
+recurrent neck vein distension,Raised JVP visible at bedside,Right Heart Failure / Cardiac Tamponade / SVC Obstruction,High,Echocardiogram. Cardiology review urgently.
+worsening ascites in cardiac patient,Abdominal fluid accumulation,Congestive Heart Failure / Cardiac Cirrhosis,High,Restrict fluid. Diuretics. Hepatic and cardiac assessment.
+productive cough pink froth,Foamy blood-tinged sputum,Acute Pulmonary Oedema,Critical,Emergency. Sit upright. Oxygen. IV furosemide. Call ambulance.
+severe chest pain after eating,Postprandial chest discomfort,GERD / Oesophageal Spasm / Angina (atypical),Low-Moderate,Trial of antacid. Cardiology review if persistent.
+mild persistent hiccups,Intractable hiccoughs,Pericarditis / Myocardial Irritation / Metabolic Cause,Low,ECG. Review medications. Medical evaluation if prolonged.
+persistent toe or finger gangrene,Necrosis of digit tips,Critical Limb Ischaemia / Raynaud's / Vasculitis,Critical,Urgent vascular surgical referral. Do not warm aggressively.
+acute eye pain with halos,Visual disturbance and periorbital pain,Acute Angle-closure Glaucoma (emergency) / Hypertension,High,Ophthalmology emergency assessment immediately.
+recurrent blurred vision with headache,Visual changes and headache,Hypertensive Retinopathy / TIA / Migraine,High,Blood pressure check. Ophthalmology and neurology review.
+worsening racing heart on waking,Fast pounding heart on waking,Paroxysmal AFib / Anxiety / Nocturnal Arrhythmia,Moderate,Holter monitor. Avoid alcohol and caffeine. Cardiology review.
+chest pain,Sharp or crushing pain in the chest area,Angina / Myocardial Infarction,Critical,Seek emergency care immediately. Call 112. Chew aspirin if not allergic.
+severe chest tightness,Squeezing or pressure sensation in chest,Angina / Stable CAD,High,"Rest immediately. If unresolved in 5 minutes, seek emergency care."
+mild shortness of breath,"Difficulty breathing, dyspnoea at rest or exertion",Heart Failure / Pulmonary Embolism,High,Sit upright. Seek medical evaluation urgently.
+persistent palpitations,"Rapid, fluttering, or pounding heartbeat",Arrhythmia / Atrial Fibrillation,Moderate,Note frequency and duration. Avoid caffeine. Consult cardiologist.
+acute dizziness,Lightheadedness or feeling faint,Low Blood Pressure / Arrhythmia,Moderate,Sit or lie down. Hydrate. Avoid sudden standing.
+recurrent syncope,Sudden loss of consciousness or fainting,Vasovagal Syncope / Cardiac Arrhythmia,High,Seek immediate evaluation. Avoid driving until cleared.
+worsening fatigue,Persistent tiredness not relieved by rest,Heart Failure / Anaemia / Hypothyroidism,Moderate,Rest and monitor. Investigate underlying cause with blood tests.
+ankle swelling,Bilateral swelling of feet and ankles,Heart Failure / Venous Insufficiency,Moderate,Elevate legs. Reduce salt intake. Consult physician.
+severe leg swelling,Unilateral or bilateral lower limb oedema,DVT / Heart Failure / Venous Disease,Moderate,Urgent evaluation if unilateral — rule out DVT.
+mild left arm pain,Pain radiating down the left arm,Myocardial Infarction / Angina,Critical,Call emergency services immediately — classic MI symptom.
+persistent jaw pain,Aching or pressure in the jaw area,Referred Cardiac Pain / TMJ,High,"If accompanied by chest pain, call 112 immediately."
+acute neck pain radiating to chest,Pain starting at neck spreading to chest,Angina / MI / Musculoskeletal,High,Seek immediate medical assessment if associated with exertion.
+recurrent sweating profusely,Sudden cold sweats without exertion,Acute MI / Hypoglycaemia / Anxiety,High,Emergency evaluation recommended. Do not wait.
+worsening nausea with chest pain,Feeling sick accompanied by chest discomfort,Myocardial Infarction,Critical,Treat as cardiac emergency. Call ambulance immediately.
+rapid heartbeat,Heart rate over 100 bpm at rest,Tachycardia / Hyperthyroidism / Anxiety,Moderate,"Check pulse. If sustained, seek ECG evaluation."
+severe slow heartbeat,Heart rate below 60 bpm with symptoms,Bradycardia / Heart Block / Drug effect,Moderate,Stop offending medications if applicable. Seek cardiac review.
+mild irregular heartbeat,Skipped or extra beats felt in chest,Ectopic Beats / AFib / Arrhythmia,Moderate,Record episodes. Avoid triggers. Consult cardiologist for Holter.
+persistent breathlessness on lying flat,Orthopnoea — unable to breathe when supine,Heart Failure / Pulmonary Oedema,High,Prop up with pillows. Urgent medical evaluation.
+acute waking up breathless,Paroxysmal nocturnal dyspnoea,Acute Pulmonary Oedema / Left Heart Failure,Critical,Sit upright. Seek emergency help if severe.
+recurrent blood in phlegm,Haemoptysis — coughing up blood,Pulmonary Embolism / TB / Lung Cancer,High,Immediate evaluation required. Do not ignore.
+worsening high blood pressure reading,Systolic >140 or diastolic >90 mmHg,Hypertension,Moderate,Take medications as prescribed. Reduce salt and stress. Monitor daily.
+very high blood pressure,Systolic >180 mmHg (hypertensive crisis),Hypertensive Emergency,Critical,Seek emergency care immediately. Do not drive yourself.
+severe low blood pressure,Systolic <90 mmHg with symptoms,Hypotension / Shock / Dehydration,High,Lie flat with legs elevated. Hydrate. Call ambulance if unconscious.
+mild cold extremities,Hands and feet cold even in warm conditions,Peripheral Arterial Disease / Raynaud's,Moderate,Keep warm. Avoid smoking. Consult vascular specialist.
+persistent leg cramps at night,Painful calf cramps during sleep,Electrolyte Imbalance / Peripheral Vascular Disease,Low,Stretch legs before sleep. Stay hydrated. Review medications.
+acute claudication,Calf pain on walking relieved by rest,Peripheral Arterial Disease,Moderate,Exercise rehabilitation. Avoid smoking. Vascular referral.
+recurrent bluish lips or fingernails,Cyanosis — blue discolouration,Low Oxygen Saturation / Heart Failure / PE,Critical,Emergency evaluation immediately. Check SpO2.
+worsening visible neck vein pulsation,Distended jugular veins (JVD),Right Heart Failure / Cardiac Tamponade,High,Urgent cardiac evaluation required.
+unexplained weight gain,Rapid weight gain (>2 kg in 2 days),Fluid Retention / Heart Failure,Moderate,Report to cardiologist. Adjust diuretic if prescribed.
+severe night sweats,Excessive sweating during sleep,Lymphoma / TB / Menopause / Endocarditis,Moderate,Investigate with blood tests. Rule out infection or malignancy.
+mild fever with heart murmur,Pyrexia with cardiac auscultation abnormality,Infective Endocarditis,Critical,Blood cultures and echocardiogram urgently required.
+persistent sudden confusion,Acute onset mental status changes,Stroke / Hypoglycaemia / Hypotension,Critical,Call emergency services immediately — possible stroke.
+acute sudden weakness one side,Unilateral arm or leg weakness,Stroke / TIA,Critical,FAST assessment. Call 112 immediately.
+recurrent sudden speech difficulty,Slurred or absent speech,Stroke / TIA,Critical,Emergency — call ambulance. Time is brain.
+worsening headache at back of neck,"Occipital headache, worst ever",Hypertensive Emergency / Subarachnoid Haemorrhage,Critical,Emergency CT scan and evaluation required immediately.
+ringing in ears,Tinnitus — persistent ringing or buzzing,Hypertension / Ototoxic Drugs / Meniere's,Low,Audiological assessment. Check medications. Monitor BP.
+severe poor exercise tolerance,Unable to climb stairs or walk without breathlessness,Heart Failure / COPD / Deconditioning,Moderate,Cardiac workup. Pulmonary function tests. Graduated exercise.
+mild persistent dry cough,Non-productive cough lasting weeks,ACE Inhibitor Side Effect / Heart Failure,Low,"If on ACE inhibitor, switch to ARB. Investigate further."
+persistent recurrent chest infections,Frequent lower respiratory tract infections,Heart Failure / COPD / Immunodeficiency,Moderate,Investigate underlying cause. Ensure vaccinations up to date.
+acute abdominal discomfort with nausea,Right upper quadrant discomfort and nausea,Right Heart Failure / Hepatomegaly,Moderate,Liver function tests. Echocardiogram. Consult gastroenterologist.
+recurrent pulsating stomach sensation,Throbbing in abdomen felt on palpation,Abdominal Aortic Aneurysm,High,Urgent ultrasound abdomen. Vascular surgical referral.
+worsening pain between shoulder blades,Interscapular chest/back pain,Aortic Dissection / MI / Musculoskeletal,High,Rule out aortic dissection urgently — CT chest required.
+tearing back pain,Sudden severe ripping pain in the back,Aortic Dissection,Critical,Emergency — call ambulance immediately. Life-threatening.
+severe purple spots on skin,Non-blanching petechiae or purpura,Vasculitis / DIC / Thrombocytopaenia / Endocarditis,High,Urgent blood tests and specialist review required.
+mild hearing own heartbeat,Pulsatile tinnitus — hearing heartbeat in ear,Hypertension / Carotid Stenosis / Arteriovenous Malformation,Moderate,Carotid Doppler and ENT assessment recommended.
+persistent chest pain on breathing,Pleuritic chest pain worsened by inspiration,Pericarditis / Pleuritis / Pulmonary Embolism,High,"ECG, D-dimer, echo. Rule out PE urgently."
+acute sharp stabbing chest pain,Brief sharp pain in chest,Musculoskeletal / Pericarditis / Anxiety,Low-Moderate,Note relationship to exertion. If exertional — seek cardiac review.
+recurrent central crushing chest pain,Typical ischaemic chest pain with radiation,STEMI / NSTEMI,Critical,EMERGENCY. Call 112. Aspirin 300mg if not allergic.
+worsening exertional breathlessness,Breathlessness brought on by physical activity,Heart Failure / Pulmonary Hypertension / COPD,Moderate,Cardiopulmonary exercise test. Echo and spirometry.
+reduced urine output,Oliguria — less than 400ml urine daily,Acute Kidney Injury / Cardiorenal Syndrome,High,Urgent renal and cardiac evaluation. Fluid balance monitoring.
+severe high pulse rate after rest,Resting heart rate >100 bpm,Sinus Tachycardia / Sepsis / Thyrotoxicosis / AFib,Moderate,12-lead ECG. Blood tests including thyroid function.
+mild fainting during exercise,Exertional syncope,Hypertrophic Cardiomyopathy / Aortic Stenosis / Arrhythmia,Critical,Stop exercise. Seek immediate cardiac evaluation.
+persistent heart murmur detected,Abnormal heart sound on auscultation,Valvular Heart Disease / Congenital Heart Disease,Moderate,Echocardiogram to characterize murmur. Cardiology referral.
+acute poor appetite,Loss of appetite with fatigue,Heart Failure / Depression / Malignancy,Moderate,Blood tests. Nutritional assessment. Investigate underlying cause.
+recurrent frequent urination at night,Nocturia — waking >2 times to urinate,Heart Failure / Diabetes / BPH,Low,Fluid restriction in evenings. Check glucose. Consult physician.
+worsening confusion in elderly,Acute delirium in older patient,Dehydration / Infection / Medication / Heart Failure,High,Geriatric assessment. Rule out sepsis and cardiac cause.
+weight loss with sweating,Unexplained weight loss and night sweats,Tuberculosis / Lymphoma / Endocarditis / Hyperthyroidism,High,"Full blood count, blood cultures, CXR, specialist review."
+severe generalised weakness,Non-specific body weakness and fatigue,Anaemia / Heart Failure / Hypothyroidism / Electrolyte Imbalance,Moderate,Blood tests panel. ECG. Rule out reversible causes.
+mild tremor with fast heartbeat,Shaking and palpitations,Thyrotoxicosis / Anxiety / Drug Side Effect,Moderate,Thyroid function tests. 12-lead ECG.
+persistent cold sweat with nausea,Diaphoresis with vomiting,Acute Coronary Syndrome / Hypoglycaemia / Vagal Response,High,Treat as cardiac emergency. Check blood glucose.
+acute sudden back pain with hypotension,Acute back pain with low BP,Aortic Dissection / Ruptured AAA,Critical,Emergency surgery consult. CT aortogram stat.
+recurrent neck vein distension,Raised JVP visible at bedside,Right Heart Failure / Cardiac Tamponade / SVC Obstruction,High,Echocardiogram. Cardiology review urgently.
+worsening ascites in cardiac patient,Abdominal fluid accumulation,Congestive Heart Failure / Cardiac Cirrhosis,High,Restrict fluid. Diuretics. Hepatic and cardiac assessment.
+productive cough pink froth,Foamy blood-tinged sputum,Acute Pulmonary Oedema,Critical,Emergency. Sit upright. Oxygen. IV furosemide. Call ambulance.
+severe chest pain after eating,Postprandial chest discomfort,GERD / Oesophageal Spasm / Angina (atypical),Low-Moderate,Trial of antacid. Cardiology review if persistent.
+mild persistent hiccups,Intractable hiccoughs,Pericarditis / Myocardial Irritation / Metabolic Cause,Low,ECG. Review medications. Medical evaluation if prolonged.
+persistent toe or finger gangrene,Necrosis of digit tips,Critical Limb Ischaemia / Raynaud's / Vasculitis,Critical,Urgent vascular surgical referral. Do not warm aggressively.
+acute eye pain with halos,Visual disturbance and periorbital pain,Acute Angle-closure Glaucoma (emergency) / Hypertension,High,Ophthalmology emergency assessment immediately.
+recurrent blurred vision with headache,Visual changes and headache,Hypertensive Retinopathy / TIA / Migraine,High,Blood pressure check. Ophthalmology and neurology review.
+worsening racing heart on waking,Fast pounding heart on waking,Paroxysmal AFib / Anxiety / Nocturnal Arrhythmia,Moderate,Holter monitor. Avoid alcohol and caffeine. Cardiology review.
+chest pain,Sharp or crushing pain in the chest area,Angina / Myocardial Infarction,Critical,Seek emergency care immediately. Call 112. Chew aspirin if not allergic.
+severe chest tightness,Squeezing or pressure sensation in chest,Angina / Stable CAD,High,"Rest immediately. If unresolved in 5 minutes, seek emergency care."
+mild shortness of breath,"Difficulty breathing, dyspnoea at rest or exertion",Heart Failure / Pulmonary Embolism,High,Sit upright. Seek medical evaluation urgently.
+persistent palpitations,"Rapid, fluttering, or pounding heartbeat",Arrhythmia / Atrial Fibrillation,Moderate,Note frequency and duration. Avoid caffeine. Consult cardiologist.
+acute dizziness,Lightheadedness or feeling faint,Low Blood Pressure / Arrhythmia,Moderate,Sit or lie down. Hydrate. Avoid sudden standing.
+recurrent syncope,Sudden loss of consciousness or fainting,Vasovagal Syncope / Cardiac Arrhythmia,High,Seek immediate evaluation. Avoid driving until cleared.
+worsening fatigue,Persistent tiredness not relieved by rest,Heart Failure / Anaemia / Hypothyroidism,Moderate,Rest and monitor. Investigate underlying cause with blood tests.
+ankle swelling,Bilateral swelling of feet and ankles,Heart Failure / Venous Insufficiency,Moderate,Elevate legs. Reduce salt intake. Consult physician.
+severe leg swelling,Unilateral or bilateral lower limb oedema,DVT / Heart Failure / Venous Disease,Moderate,Urgent evaluation if unilateral — rule out DVT.
+mild left arm pain,Pain radiating down the left arm,Myocardial Infarction / Angina,Critical,Call emergency services immediately — classic MI symptom.
+persistent jaw pain,Aching or pressure in the jaw area,Referred Cardiac Pain / TMJ,High,"If accompanied by chest pain, call 112 immediately."
+acute neck pain radiating to chest,Pain starting at neck spreading to chest,Angina / MI / Musculoskeletal,High,Seek immediate medical assessment if associated with exertion.
+recurrent sweating profusely,Sudden cold sweats without exertion,Acute MI / Hypoglycaemia / Anxiety,High,Emergency evaluation recommended. Do not wait.
+worsening nausea with chest pain,Feeling sick accompanied by chest discomfort,Myocardial Infarction,Critical,Treat as cardiac emergency. Call ambulance immediately.
+rapid heartbeat,Heart rate over 100 bpm at rest,Tachycardia / Hyperthyroidism / Anxiety,Moderate,"Check pulse. If sustained, seek ECG evaluation."
+severe slow heartbeat,Heart rate below 60 bpm with symptoms,Bradycardia / Heart Block / Drug effect,Moderate,Stop offending medications if applicable. Seek cardiac review.
+mild irregular heartbeat,Skipped or extra beats felt in chest,Ectopic Beats / AFib / Arrhythmia,Moderate,Record episodes. Avoid triggers. Consult cardiologist for Holter.
+persistent breathlessness on lying flat,Orthopnoea — unable to breathe when supine,Heart Failure / Pulmonary Oedema,High,Prop up with pillows. Urgent medical evaluation.
+acute waking up breathless,Paroxysmal nocturnal dyspnoea,Acute Pulmonary Oedema / Left Heart Failure,Critical,Sit upright. Seek emergency help if severe.
+recurrent blood in phlegm,Haemoptysis — coughing up blood,Pulmonary Embolism / TB / Lung Cancer,High,Immediate evaluation required. Do not ignore.
+worsening high blood pressure reading,Systolic >140 or diastolic >90 mmHg,Hypertension,Moderate,Take medications as prescribed. Reduce salt and stress. Monitor daily.
+very high blood pressure,Systolic >180 mmHg (hypertensive crisis),Hypertensive Emergency,Critical,Seek emergency care immediately. Do not drive yourself.
+severe low blood pressure,Systolic <90 mmHg with symptoms,Hypotension / Shock / Dehydration,High,Lie flat with legs elevated. Hydrate. Call ambulance if unconscious.
+mild cold extremities,Hands and feet cold even in warm conditions,Peripheral Arterial Disease / Raynaud's,Moderate,Keep warm. Avoid smoking. Consult vascular specialist.
+persistent leg cramps at night,Painful calf cramps during sleep,Electrolyte Imbalance / Peripheral Vascular Disease,Low,Stretch legs before sleep. Stay hydrated. Review medications.
+acute claudication,Calf pain on walking relieved by rest,Peripheral Arterial Disease,Moderate,Exercise rehabilitation. Avoid smoking. Vascular referral.
+recurrent bluish lips or fingernails,Cyanosis — blue discolouration,Low Oxygen Saturation / Heart Failure / PE,Critical,Emergency evaluation immediately. Check SpO2.
+worsening visible neck vein pulsation,Distended jugular veins (JVD),Right Heart Failure / Cardiac Tamponade,High,Urgent cardiac evaluation required.
+unexplained weight gain,Rapid weight gain (>2 kg in 2 days),Fluid Retention / Heart Failure,Moderate,Report to cardiologist. Adjust diuretic if prescribed.
+severe night sweats,Excessive sweating during sleep,Lymphoma / TB / Menopause / Endocarditis,Moderate,Investigate with blood tests. Rule out infection or malignancy.
+mild fever with heart murmur,Pyrexia with cardiac auscultation abnormality,Infective Endocarditis,Critical,Blood cultures and echocardiogram urgently required.
+persistent sudden confusion,Acute onset mental status changes,Stroke / Hypoglycaemia / Hypotension,Critical,Call emergency services immediately — possible stroke.
+acute sudden weakness one side,Unilateral arm or leg weakness,Stroke / TIA,Critical,FAST assessment. Call 112 immediately.
+recurrent sudden speech difficulty,Slurred or absent speech,Stroke / TIA,Critical,Emergency — call ambulance. Time is brain.
+worsening headache at back of neck,"Occipital headache, worst ever",Hypertensive Emergency / Subarachnoid Haemorrhage,Critical,Emergency CT scan and evaluation required immediately.
+ringing in ears,Tinnitus — persistent ringing or buzzing,Hypertension / Ototoxic Drugs / Meniere's,Low,Audiological assessment. Check medications. Monitor BP.
+severe poor exercise tolerance,Unable to climb stairs or walk without breathlessness,Heart Failure / COPD / Deconditioning,Moderate,Cardiac workup. Pulmonary function tests. Graduated exercise.
+mild persistent dry cough,Non-productive cough lasting weeks,ACE Inhibitor Side Effect / Heart Failure,Low,"If on ACE inhibitor, switch to ARB. Investigate further."
+persistent recurrent chest infections,Frequent lower respiratory tract infections,Heart Failure / COPD / Immunodeficiency,Moderate,Investigate underlying cause. Ensure vaccinations up to date.
+acute abdominal discomfort with nausea,Right upper quadrant discomfort and nausea,Right Heart Failure / Hepatomegaly,Moderate,Liver function tests. Echocardiogram. Consult gastroenterologist.
+recurrent pulsating stomach sensation,Throbbing in abdomen felt on palpation,Abdominal Aortic Aneurysm,High,Urgent ultrasound abdomen. Vascular surgical referral.
+worsening pain between shoulder blades,Interscapular chest/back pain,Aortic Dissection / MI / Musculoskeletal,High,Rule out aortic dissection urgently — CT chest required.
+tearing back pain,Sudden severe ripping pain in the back,Aortic Dissection,Critical,Emergency — call ambulance immediately. Life-threatening.
+severe purple spots on skin,Non-blanching petechiae or purpura,Vasculitis / DIC / Thrombocytopaenia / Endocarditis,High,Urgent blood tests and specialist review required.
+mild hearing own heartbeat,Pulsatile tinnitus — hearing heartbeat in ear,Hypertension / Carotid Stenosis / Arteriovenous Malformation,Moderate,Carotid Doppler and ENT assessment recommended.
+persistent chest pain on breathing,Pleuritic chest pain worsened by inspiration,Pericarditis / Pleuritis / Pulmonary Embolism,High,"ECG, D-dimer, echo. Rule out PE urgently."
+acute sharp stabbing chest pain,Brief sharp pain in chest,Musculoskeletal / Pericarditis / Anxiety,Low-Moderate,Note relationship to exertion. If exertional — seek cardiac review.
+recurrent central crushing chest pain,Typical ischaemic chest pain with radiation,STEMI / NSTEMI,Critical,EMERGENCY. Call 112. Aspirin 300mg if not allergic.
+worsening exertional breathlessness,Breathlessness brought on by physical activity,Heart Failure / Pulmonary Hypertension / COPD,Moderate,Cardiopulmonary exercise test. Echo and spirometry.
+reduced urine output,Oliguria — less than 400ml urine daily,Acute Kidney Injury / Cardiorenal Syndrome,High,Urgent renal and cardiac evaluation. Fluid balance monitoring.
+severe high pulse rate after rest,Resting heart rate >100 bpm,Sinus Tachycardia / Sepsis / Thyrotoxicosis / AFib,Moderate,12-lead ECG. Blood tests including thyroid function.
+mild fainting during exercise,Exertional syncope,Hypertrophic Cardiomyopathy / Aortic Stenosis / Arrhythmia,Critical,Stop exercise. Seek immediate cardiac evaluation.
+persistent heart murmur detected,Abnormal heart sound on auscultation,Valvular Heart Disease / Congenital Heart Disease,Moderate,Echocardiogram to characterize murmur. Cardiology referral.
+acute poor appetite,Loss of appetite with fatigue,Heart Failure / Depression / Malignancy,Moderate,Blood tests. Nutritional assessment. Investigate underlying cause.
+recurrent frequent urination at night,Nocturia — waking >2 times to urinate,Heart Failure / Diabetes / BPH,Low,Fluid restriction in evenings. Check glucose. Consult physician.
+worsening confusion in elderly,Acute delirium in older patient,Dehydration / Infection / Medication / Heart Failure,High,Geriatric assessment. Rule out sepsis and cardiac cause.
+weight loss with sweating,Unexplained weight loss and night sweats,Tuberculosis / Lymphoma / Endocarditis / Hyperthyroidism,High,"Full blood count, blood cultures, CXR, specialist review."
+severe generalised weakness,Non-specific body weakness and fatigue,Anaemia / Heart Failure / Hypothyroidism / Electrolyte Imbalance,Moderate,Blood tests panel. ECG. Rule out reversible causes.
+mild tremor with fast heartbeat,Shaking and palpitations,Thyrotoxicosis / Anxiety / Drug Side Effect,Moderate,Thyroid function tests. 12-lead ECG.
+persistent cold sweat with nausea,Diaphoresis with vomiting,Acute Coronary Syndrome / Hypoglycaemia / Vagal Response,High,Treat as cardiac emergency. Check blood glucose.
+acute sudden back pain with hypotension,Acute back pain with low BP,Aortic Dissection / Ruptured AAA,Critical,Emergency surgery consult. CT aortogram stat.
+recurrent neck vein distension,Raised JVP visible at bedside,Right Heart Failure / Cardiac Tamponade / SVC Obstruction,High,Echocardiogram. Cardiology review urgently.
+worsening ascites in cardiac patient,Abdominal fluid accumulation,Congestive Heart Failure / Cardiac Cirrhosis,High,Restrict fluid. Diuretics. Hepatic and cardiac assessment.
+productive cough pink froth,Foamy blood-tinged sputum,Acute Pulmonary Oedema,Critical,Emergency. Sit upright. Oxygen. IV furosemide. Call ambulance.
+severe chest pain after eating,Postprandial chest discomfort,GERD / Oesophageal Spasm / Angina (atypical),Low-Moderate,Trial of antacid. Cardiology review if persistent.
+mild persistent hiccups,Intractable hiccoughs,Pericarditis / Myocardial Irritation / Metabolic Cause,Low,ECG. Review medications. Medical evaluation if prolonged.
+persistent toe or finger gangrene,Necrosis of digit tips,Critical Limb Ischaemia / Raynaud's / Vasculitis,Critical,Urgent vascular surgical referral. Do not warm aggressively.
+acute eye pain with halos,Visual disturbance and periorbital pain,Acute Angle-closure Glaucoma (emergency) / Hypertension,High,Ophthalmology emergency assessment immediately.
+recurrent blurred vision with headache,Visual changes and headache,Hypertensive Retinopathy / TIA / Migraine,High,Blood pressure check. Ophthalmology and neurology review.
+worsening racing heart on waking,Fast pounding heart on waking,Paroxysmal AFib / Anxiety / Nocturnal Arrhythmia,Moderate,Holter monitor. Avoid alcohol and caffeine. Cardiology review.
+chest pain,Sharp or crushing pain in the chest area,Angina / Myocardial Infarction,Critical,Seek emergency care immediately. Call 112. Chew aspirin if not allergic.
+severe chest tightness,Squeezing or pressure sensation in chest,Angina / Stable CAD,High,"Rest immediately. If unresolved in 5 minutes, seek emergency care."
+mild shortness of breath,"Difficulty breathing, dyspnoea at rest or exertion",Heart Failure / Pulmonary Embolism,High,Sit upright. Seek medical evaluation urgently.
+persistent palpitations,"Rapid, fluttering, or pounding heartbeat",Arrhythmia / Atrial Fibrillation,Moderate,Note frequency and duration. Avoid caffeine. Consult cardiologist.
+acute dizziness,Lightheadedness or feeling faint,Low Blood Pressure / Arrhythmia,Moderate,Sit or lie down. Hydrate. Avoid sudden standing.
+recurrent syncope,Sudden loss of consciousness or fainting,Vasovagal Syncope / Cardiac Arrhythmia,High,Seek immediate evaluation. Avoid driving until cleared.
+worsening fatigue,Persistent tiredness not relieved by rest,Heart Failure / Anaemia / Hypothyroidism,Moderate,Rest and monitor. Investigate underlying cause with blood tests.
+ankle swelling,Bilateral swelling of feet and ankles,Heart Failure / Venous Insufficiency,Moderate,Elevate legs. Reduce salt intake. Consult physician.
+severe leg swelling,Unilateral or bilateral lower limb oedema,DVT / Heart Failure / Venous Disease,Moderate,Urgent evaluation if unilateral — rule out DVT.
+mild left arm pain,Pain radiating down the left arm,Myocardial Infarction / Angina,Critical,Call emergency services immediately — classic MI symptom.
+persistent jaw pain,Aching or pressure in the jaw area,Referred Cardiac Pain / TMJ,High,"If accompanied by chest pain, call 112 immediately."
+acute neck pain radiating to chest,Pain starting at neck spreading to chest,Angina / MI / Musculoskeletal,High,Seek immediate medical assessment if associated with exertion.
+recurrent sweating profusely,Sudden cold sweats without exertion,Acute MI / Hypoglycaemia / Anxiety,High,Emergency evaluation recommended. Do not wait.
+worsening nausea with chest pain,Feeling sick accompanied by chest discomfort,Myocardial Infarction,Critical,Treat as cardiac emergency. Call ambulance immediately.
+rapid heartbeat,Heart rate over 100 bpm at rest,Tachycardia / Hyperthyroidism / Anxiety,Moderate,"Check pulse. If sustained, seek ECG evaluation."
+severe slow heartbeat,Heart rate below 60 bpm with symptoms,Bradycardia / Heart Block / Drug effect,Moderate,Stop offending medications if applicable. Seek cardiac review.
+mild irregular heartbeat,Skipped or extra beats felt in chest,Ectopic Beats / AFib / Arrhythmia,Moderate,Record episodes. Avoid triggers. Consult cardiologist for Holter.
+persistent breathlessness on lying flat,Orthopnoea — unable to breathe when supine,Heart Failure / Pulmonary Oedema,High,Prop up with pillows. Urgent medical evaluation.
+acute waking up breathless,Paroxysmal nocturnal dyspnoea,Acute Pulmonary Oedema / Left Heart Failure,Critical,Sit upright. Seek emergency help if severe.
+recurrent blood in phlegm,Haemoptysis — coughing up blood,Pulmonary Embolism / TB / Lung Cancer,High,Immediate evaluation required. Do not ignore.
+worsening high blood pressure reading,Systolic >140 or diastolic >90 mmHg,Hypertension,Moderate,Take medications as prescribed. Reduce salt and stress. Monitor daily.
+very high blood pressure,Systolic >180 mmHg (hypertensive crisis),Hypertensive Emergency,Critical,Seek emergency care immediately. Do not drive yourself.
+severe low blood pressure,Systolic <90 mmHg with symptoms,Hypotension / Shock / Dehydration,High,Lie flat with legs elevated. Hydrate. Call ambulance if unconscious.
+mild cold extremities,Hands and feet cold even in warm conditions,Peripheral Arterial Disease / Raynaud's,Moderate,Keep warm. Avoid smoking. Consult vascular specialist.
+persistent leg cramps at night,Painful calf cramps during sleep,Electrolyte Imbalance / Peripheral Vascular Disease,Low,Stretch legs before sleep. Stay hydrated. Review medications.
+acute claudication,Calf pain on walking relieved by rest,Peripheral Arterial Disease,Moderate,Exercise rehabilitation. Avoid smoking. Vascular referral.
+recurrent bluish lips or fingernails,Cyanosis — blue discolouration,Low Oxygen Saturation / Heart Failure / PE,Critical,Emergency evaluation immediately. Check SpO2.
+worsening visible neck vein pulsation,Distended jugular veins (JVD),Right Heart Failure / Cardiac Tamponade,High,Urgent cardiac evaluation required.
+unexplained weight gain,Rapid weight gain (>2 kg in 2 days),Fluid Retention / Heart Failure,Moderate,Report to cardiologist. Adjust diuretic if prescribed.
+severe night sweats,Excessive sweating during sleep,Lymphoma / TB / Menopause / Endocarditis,Moderate,Investigate with blood tests. Rule out infection or malignancy.
+mild fever with heart murmur,Pyrexia with cardiac auscultation abnormality,Infective Endocarditis,Critical,Blood cultures and echocardiogram urgently required.
+persistent sudden confusion,Acute onset mental status changes,Stroke / Hypoglycaemia / Hypotension,Critical,Call emergency services immediately — possible stroke.
+acute sudden weakness one side,Unilateral arm or leg weakness,Stroke / TIA,Critical,FAST assessment. Call 112 immediately.
+recurrent sudden speech difficulty,Slurred or absent speech,Stroke / TIA,Critical,Emergency — call ambulance. Time is brain.
+worsening headache at back of neck,"Occipital headache, worst ever",Hypertensive Emergency / Subarachnoid Haemorrhage,Critical,Emergency CT scan and evaluation required immediately.
+ringing in ears,Tinnitus — persistent ringing or buzzing,Hypertension / Ototoxic Drugs / Meniere's,Low,Audiological assessment. Check medications. Monitor BP.
+severe poor exercise tolerance,Unable to climb stairs or walk without breathlessness,Heart Failure / COPD / Deconditioning,Moderate,Cardiac workup. Pulmonary function tests. Graduated exercise.
+mild persistent dry cough,Non-productive cough lasting weeks,ACE Inhibitor Side Effect / Heart Failure,Low,"If on ACE inhibitor, switch to ARB. Investigate further."
+persistent recurrent chest infections,Frequent lower respiratory tract infections,Heart Failure / COPD / Immunodeficiency,Moderate,Investigate underlying cause. Ensure vaccinations up to date.
+acute abdominal discomfort with nausea,Right upper quadrant discomfort and nausea,Right Heart Failure / Hepatomegaly,Moderate,Liver function tests. Echocardiogram. Consult gastroenterologist.
+recurrent pulsating stomach sensation,Throbbing in abdomen felt on palpation,Abdominal Aortic Aneurysm,High,Urgent ultrasound abdomen. Vascular surgical referral.
+worsening pain between shoulder blades,Interscapular chest/back pain,Aortic Dissection / MI / Musculoskeletal,High,Rule out aortic dissection urgently — CT chest required.
+tearing back pain,Sudden severe ripping pain in the back,Aortic Dissection,Critical,Emergency — call ambulance immediately. Life-threatening.
+severe purple spots on skin,Non-blanching petechiae or purpura,Vasculitis / DIC / Thrombocytopaenia / Endocarditis,High,Urgent blood tests and specialist review required.
+mild hearing own heartbeat,Pulsatile tinnitus — hearing heartbeat in ear,Hypertension / Carotid Stenosis / Arteriovenous Malformation,Moderate,Carotid Doppler and ENT assessment recommended.
+persistent chest pain on breathing,Pleuritic chest pain worsened by inspiration,Pericarditis / Pleuritis / Pulmonary Embolism,High,"ECG, D-dimer, echo. Rule out PE urgently."
+acute sharp stabbing chest pain,Brief sharp pain in chest,Musculoskeletal / Pericarditis / Anxiety,Low-Moderate,Note relationship to exertion. If exertional — seek cardiac review.
+recurrent central crushing chest pain,Typical ischaemic chest pain with radiation,STEMI / NSTEMI,Critical,EMERGENCY. Call 112. Aspirin 300mg if not allergic.
+worsening exertional breathlessness,Breathlessness brought on by physical activity,Heart Failure / Pulmonary Hypertension / COPD,Moderate,Cardiopulmonary exercise test. Echo and spirometry.
+reduced urine output,Oliguria — less than 400ml urine daily,Acute Kidney Injury / Cardiorenal Syndrome,High,Urgent renal and cardiac evaluation. Fluid balance monitoring.
+severe high pulse rate after rest,Resting heart rate >100 bpm,Sinus Tachycardia / Sepsis / Thyrotoxicosis / AFib,Moderate,12-lead ECG. Blood tests including thyroid function.
+mild fainting during exercise,Exertional syncope,Hypertrophic Cardiomyopathy / Aortic Stenosis / Arrhythmia,Critical,Stop exercise. Seek immediate cardiac evaluation.
+persistent heart murmur detected,Abnormal heart sound on auscultation,Valvular Heart Disease / Congenital Heart Disease,Moderate,Echocardiogram to characterize murmur. Cardiology referral.
+acute poor appetite,Loss of appetite with fatigue,Heart Failure / Depression / Malignancy,Moderate,Blood tests. Nutritional assessment. Investigate underlying cause.
+recurrent frequent urination at night,Nocturia — waking >2 times to urinate,Heart Failure / Diabetes / BPH,Low,Fluid restriction in evenings. Check glucose. Consult physician.
+worsening confusion in elderly,Acute delirium in older patient,Dehydration / Infection / Medication / Heart Failure,High,Geriatric assessment. Rule out sepsis and cardiac cause.
+weight loss with sweating,Unexplained weight loss and night sweats,Tuberculosis / Lymphoma / Endocarditis / Hyperthyroidism,High,"Full blood count, blood cultures, CXR, specialist review."
+severe generalised weakness,Non-specific body weakness and fatigue,Anaemia / Heart Failure / Hypothyroidism / Electrolyte Imbalance,Moderate,Blood tests panel. ECG. Rule out reversible causes.
+mild tremor with fast heartbeat,Shaking and palpitations,Thyrotoxicosis / Anxiety / Drug Side Effect,Moderate,Thyroid function tests. 12-lead ECG.
+persistent cold sweat with nausea,Diaphoresis with vomiting,Acute Coronary Syndrome / Hypoglycaemia / Vagal Response,High,Treat as cardiac emergency. Check blood glucose.
+acute sudden back pain with hypotension,Acute back pain with low BP,Aortic Dissection / Ruptured AAA,Critical,Emergency surgery consult. CT aortogram stat.
+recurrent neck vein distension,Raised JVP visible at bedside,Right Heart Failure / Cardiac Tamponade / SVC Obstruction,High,Echocardiogram. Cardiology review urgently.
+worsening ascites in cardiac patient,Abdominal fluid accumulation,Congestive Heart Failure / Cardiac Cirrhosis,High,Restrict fluid. Diuretics. Hepatic and cardiac assessment.
+productive cough pink froth,Foamy blood-tinged sputum,Acute Pulmonary Oedema,Critical,Emergency. Sit upright. Oxygen. IV furosemide. Call ambulance.
+severe chest pain after eating,Postprandial chest discomfort,GERD / Oesophageal Spasm / Angina (atypical),Low-Moderate,Trial of antacid. Cardiology review if persistent.
+mild persistent hiccups,Intractable hiccoughs,Pericarditis / Myocardial Irritation / Metabolic Cause,Low,ECG. Review medications. Medical evaluation if prolonged.
+persistent toe or finger gangrene,Necrosis of digit tips,Critical Limb Ischaemia / Raynaud's / Vasculitis,Critical,Urgent vascular surgical referral. Do not warm aggressively.
+acute eye pain with halos,Visual disturbance and periorbital pain,Acute Angle-closure Glaucoma (emergency) / Hypertension,High,Ophthalmology emergency assessment immediately.
+recurrent blurred vision with headache,Visual changes and headache,Hypertensive Retinopathy / TIA / Migraine,High,Blood pressure check. Ophthalmology and neurology review.
+worsening racing heart on waking,Fast pounding heart on waking,Paroxysmal AFib / Anxiety / Nocturnal Arrhythmia,Moderate,Holter monitor. Avoid alcohol and caffeine. Cardiology review.
+chest pain,Sharp or crushing pain in the chest area,Angina / Myocardial Infarction,Critical,Seek emergency care immediately. Call 112. Chew aspirin if not allergic.
+severe chest tightness,Squeezing or pressure sensation in chest,Angina / Stable CAD,High,"Rest immediately. If unresolved in 5 minutes, seek emergency care."
+mild shortness of breath,"Difficulty breathing, dyspnoea at rest or exertion",Heart Failure / Pulmonary Embolism,High,Sit upright. Seek medical evaluation urgently.
+persistent palpitations,"Rapid, fluttering, or pounding heartbeat",Arrhythmia / Atrial Fibrillation,Moderate,Note frequency and duration. Avoid caffeine. Consult cardiologist.
+acute dizziness,Lightheadedness or feeling faint,Low Blood Pressure / Arrhythmia,Moderate,Sit or lie down. Hydrate. Avoid sudden standing.
+recurrent syncope,Sudden loss of consciousness or fainting,Vasovagal Syncope / Cardiac Arrhythmia,High,Seek immediate evaluation. Avoid driving until cleared.
+worsening fatigue,Persistent tiredness not relieved by rest,Heart Failure / Anaemia / Hypothyroidism,Moderate,Rest and monitor. Investigate underlying cause with blood tests.
+ankle swelling,Bilateral swelling of feet and ankles,Heart Failure / Venous Insufficiency,Moderate,Elevate legs. Reduce salt intake. Consult physician.
+severe leg swelling,Unilateral or bilateral lower limb oedema,DVT / Heart Failure / Venous Disease,Moderate,Urgent evaluation if unilateral — rule out DVT.
+mild left arm pain,Pain radiating down the left arm,Myocardial Infarction / Angina,Critical,Call emergency services immediately — classic MI symptom.
+persistent jaw pain,Aching or pressure in the jaw area,Referred Cardiac Pain / TMJ,High,"If accompanied by chest pain, call 112 immediately."
+acute neck pain radiating to chest,Pain starting at neck spreading to chest,Angina / MI / Musculoskeletal,High,Seek immediate medical assessment if associated with exertion.
+recurrent sweating profusely,Sudden cold sweats without exertion,Acute MI / Hypoglycaemia / Anxiety,High,Emergency evaluation recommended. Do not wait.
+worsening nausea with chest pain,Feeling sick accompanied by chest discomfort,Myocardial Infarction,Critical,Treat as cardiac emergency. Call ambulance immediately.
+rapid heartbeat,Heart rate over 100 bpm at rest,Tachycardia / Hyperthyroidism / Anxiety,Moderate,"Check pulse. If sustained, seek ECG evaluation."
+severe slow heartbeat,Heart rate below 60 bpm with symptoms,Bradycardia / Heart Block / Drug effect,Moderate,Stop offending medications if applicable. Seek cardiac review.
+mild irregular heartbeat,Skipped or extra beats felt in chest,Ectopic Beats / AFib / Arrhythmia,Moderate,Record episodes. Avoid triggers. Consult cardiologist for Holter.
+persistent breathlessness on lying flat,Orthopnoea — unable to breathe when supine,Heart Failure / Pulmonary Oedema,High,Prop up with pillows. Urgent medical evaluation.
+acute waking up breathless,Paroxysmal nocturnal dyspnoea,Acute Pulmonary Oedema / Left Heart Failure,Critical,Sit upright. Seek emergency help if severe.
+recurrent blood in phlegm,Haemoptysis — coughing up blood,Pulmonary Embolism / TB / Lung Cancer,High,Immediate evaluation required. Do not ignore.
+worsening high blood pressure reading,Systolic >140 or diastolic >90 mmHg,Hypertension,Moderate,Take medications as prescribed. Reduce salt and stress. Monitor daily.
+very high blood pressure,Systolic >180 mmHg (hypertensive crisis),Hypertensive Emergency,Critical,Seek emergency care immediately. Do not drive yourself.
+severe low blood pressure,Systolic <90 mmHg with symptoms,Hypotension / Shock / Dehydration,High,Lie flat with legs elevated. Hydrate. Call ambulance if unconscious.
+mild cold extremities,Hands and feet cold even in warm conditions,Peripheral Arterial Disease / Raynaud's,Moderate,Keep warm. Avoid smoking. Consult vascular specialist.
+persistent leg cramps at night,Painful calf cramps during sleep,Electrolyte Imbalance / Peripheral Vascular Disease,Low,Stretch legs before sleep. Stay hydrated. Review medications.
+acute claudication,Calf pain on walking relieved by rest,Peripheral Arterial Disease,Moderate,Exercise rehabilitation. Avoid smoking. Vascular referral.
+recurrent bluish lips or fingernails,Cyanosis — blue discolouration,Low Oxygen Saturation / Heart Failure / PE,Critical,Emergency evaluation immediately. Check SpO2.
+worsening visible neck vein pulsation,Distended jugular veins (JVD),Right Heart Failure / Cardiac Tamponade,High,Urgent cardiac evaluation required.
+unexplained weight gain,Rapid weight gain (>2 kg in 2 days),Fluid Retention / Heart Failure,Moderate,Report to cardiologist. Adjust diuretic if prescribed.
+severe night sweats,Excessive sweating during sleep,Lymphoma / TB / Menopause / Endocarditis,Moderate,Investigate with blood tests. Rule out infection or malignancy.
+mild fever with heart murmur,Pyrexia with cardiac auscultation abnormality,Infective Endocarditis,Critical,Blood cultures and echocardiogram urgently required.
+persistent sudden confusion,Acute onset mental status changes,Stroke / Hypoglycaemia / Hypotension,Critical,Call emergency services immediately — possible stroke.
+acute sudden weakness one side,Unilateral arm or leg weakness,Stroke / TIA,Critical,FAST assessment. Call 112 immediately.
+recurrent sudden speech difficulty,Slurred or absent speech,Stroke / TIA,Critical,Emergency — call ambulance. Time is brain.
+worsening headache at back of neck,"Occipital headache, worst ever",Hypertensive Emergency / Subarachnoid Haemorrhage,Critical,Emergency CT scan and evaluation required immediately.
+ringing in ears,Tinnitus — persistent ringing or buzzing,Hypertension / Ototoxic Drugs / Meniere's,Low,Audiological assessment. Check medications. Monitor BP.
+severe poor exercise tolerance,Unable to climb stairs or walk without breathlessness,Heart Failure / COPD / Deconditioning,Moderate,Cardiac workup. Pulmonary function tests. Graduated exercise.
+mild persistent dry cough,Non-productive cough lasting weeks,ACE Inhibitor Side Effect / Heart Failure,Low,"If on ACE inhibitor, switch to ARB. Investigate further."
+persistent recurrent chest infections,Frequent lower respiratory tract infections,Heart Failure / COPD / Immunodeficiency,Moderate,Investigate underlying cause. Ensure vaccinations up to date.
+acute abdominal discomfort with nausea,Right upper quadrant discomfort and nausea,Right Heart Failure / Hepatomegaly,Moderate,Liver function tests. Echocardiogram. Consult gastroenterologist.
+recurrent pulsating stomach sensation,Throbbing in abdomen felt on palpation,Abdominal Aortic Aneurysm,High,Urgent ultrasound abdomen. Vascular surgical referral.
+worsening pain between shoulder blades,Interscapular chest/back pain,Aortic Dissection / MI / Musculoskeletal,High,Rule out aortic dissection urgently — CT chest required.
+tearing back pain,Sudden severe ripping pain in the back,Aortic Dissection,Critical,Emergency — call ambulance immediately. Life-threatening.
+severe purple spots on skin,Non-blanching petechiae or purpura,Vasculitis / DIC / Thrombocytopaenia / Endocarditis,High,Urgent blood tests and specialist review required.
+mild hearing own heartbeat,Pulsatile tinnitus — hearing heartbeat in ear,Hypertension / Carotid Stenosis / Arteriovenous Malformation,Moderate,Carotid Doppler and ENT assessment recommended.
+persistent chest pain on breathing,Pleuritic chest pain worsened by inspiration,Pericarditis / Pleuritis / Pulmonary Embolism,High,"ECG, D-dimer, echo. Rule out PE urgently."
+acute sharp stabbing chest pain,Brief sharp pain in chest,Musculoskeletal / Pericarditis / Anxiety,Low-Moderate,Note relationship to exertion. If exertional — seek cardiac review.
+recurrent central crushing chest pain,Typical ischaemic chest pain with radiation,STEMI / NSTEMI,Critical,EMERGENCY. Call 112. Aspirin 300mg if not allergic.
+worsening exertional breathlessness,Breathlessness brought on by physical activity,Heart Failure / Pulmonary Hypertension / COPD,Moderate,Cardiopulmonary exercise test. Echo and spirometry.
+reduced urine output,Oliguria — less than 400ml urine daily,Acute Kidney Injury / Cardiorenal Syndrome,High,Urgent renal and cardiac evaluation. Fluid balance monitoring.
+severe high pulse rate after rest,Resting heart rate >100 bpm,Sinus Tachycardia / Sepsis / Thyrotoxicosis / AFib,Moderate,12-lead ECG. Blood tests including thyroid function.
+mild fainting during exercise,Exertional syncope,Hypertrophic Cardiomyopathy / Aortic Stenosis / Arrhythmia,Critical,Stop exercise. Seek immediate cardiac evaluation.
+persistent heart murmur detected,Abnormal heart sound on auscultation,Valvular Heart Disease / Congenital Heart Disease,Moderate,Echocardiogram to characterize murmur. Cardiology referral.
+acute poor appetite,Loss of appetite with fatigue,Heart Failure / Depression / Malignancy,Moderate,Blood tests. Nutritional assessment. Investigate underlying cause.
+recurrent frequent urination at night,Nocturia — waking >2 times to urinate,Heart Failure / Diabetes / BPH,Low,Fluid restriction in evenings. Check glucose. Consult physician.
+worsening confusion in elderly,Acute delirium in older patient,Dehydration / Infection / Medication / Heart Failure,High,Geriatric assessment. Rule out sepsis and cardiac cause.
+weight loss with sweating,Unexplained weight loss and night sweats,Tuberculosis / Lymphoma / Endocarditis / Hyperthyroidism,High,"Full blood count, blood cultures, CXR, specialist review."
+severe generalised weakness,Non-specific body weakness and fatigue,Anaemia / Heart Failure / Hypothyroidism / Electrolyte Imbalance,Moderate,Blood tests panel. ECG. Rule out reversible causes.
+mild tremor with fast heartbeat,Shaking and palpitations,Thyrotoxicosis / Anxiety / Drug Side Effect,Moderate,Thyroid function tests. 12-lead ECG.
+persistent cold sweat with nausea,Diaphoresis with vomiting,Acute Coronary Syndrome / Hypoglycaemia / Vagal Response,High,Treat as cardiac emergency. Check blood glucose.
+acute sudden back pain with hypotension,Acute back pain with low BP,Aortic Dissection / Ruptured AAA,Critical,Emergency surgery consult. CT aortogram stat.
+recurrent neck vein distension,Raised JVP visible at bedside,Right Heart Failure / Cardiac Tamponade / SVC Obstruction,High,Echocardiogram. Cardiology review urgently.
+worsening ascites in cardiac patient,Abdominal fluid accumulation,Congestive Heart Failure / Cardiac Cirrhosis,High,Restrict fluid. Diuretics. Hepatic and cardiac assessment.
+productive cough pink froth,Foamy blood-tinged sputum,Acute Pulmonary Oedema,Critical,Emergency. Sit upright. Oxygen. IV furosemide. Call ambulance.
+severe chest pain after eating,Postprandial chest discomfort,GERD / Oesophageal Spasm / Angina (atypical),Low-Moderate,Trial of antacid. Cardiology review if persistent.
+mild persistent hiccups,Intractable hiccoughs,Pericarditis / Myocardial Irritation / Metabolic Cause,Low,ECG. Review medications. Medical evaluation if prolonged.
+persistent toe or finger gangrene,Necrosis of digit tips,Critical Limb Ischaemia / Raynaud's / Vasculitis,Critical,Urgent vascular surgical referral. Do not warm aggressively.
+acute eye pain with halos,Visual disturbance and periorbital pain,Acute Angle-closure Glaucoma (emergency) / Hypertension,High,Ophthalmology emergency assessment immediately.
+recurrent blurred vision with headache,Visual changes and headache,Hypertensive Retinopathy / TIA / Migraine,High,Blood pressure check. Ophthalmology and neurology review.
+worsening racing heart on waking,Fast pounding heart on waking,Paroxysmal AFib / Anxiety / Nocturnal Arrhythmia,Moderate,Holter monitor. Avoid alcohol and caffeine. Cardiology review.
+chest pain,Sharp or crushing pain in the chest area,Angina / Myocardial Infarction,Critical,Seek emergency care immediately. Call 112. Chew aspirin if not allergic.
+severe chest tightness,Squeezing or pressure sensation in chest,Angina / Stable CAD,High,"Rest immediately. If unresolved in 5 minutes, seek emergency care."
+mild shortness of breath,"Difficulty breathing, dyspnoea at rest or exertion",Heart Failure / Pulmonary Embolism,High,Sit upright. Seek medical evaluation urgently.
+persistent palpitations,"Rapid, fluttering, or pounding heartbeat",Arrhythmia / Atrial Fibrillation,Moderate,Note frequency and duration. Avoid caffeine. Consult cardiologist.
+acute dizziness,Lightheadedness or feeling faint,Low Blood Pressure / Arrhythmia,Moderate,Sit or lie down. Hydrate. Avoid sudden standing.
+recurrent syncope,Sudden loss of consciousness or fainting,Vasovagal Syncope / Cardiac Arrhythmia,High,Seek immediate evaluation. Avoid driving until cleared.
+worsening fatigue,Persistent tiredness not relieved by rest,Heart Failure / Anaemia / Hypothyroidism,Moderate,Rest and monitor. Investigate underlying cause with blood tests.
+ankle swelling,Bilateral swelling of feet and ankles,Heart Failure / Venous Insufficiency,Moderate,Elevate legs. Reduce salt intake. Consult physician.
+severe leg swelling,Unilateral or bilateral lower limb oedema,DVT / Heart Failure / Venous Disease,Moderate,Urgent evaluation if unilateral — rule out DVT.
+mild left arm pain,Pain radiating down the left arm,Myocardial Infarction / Angina,Critical,Call emergency services immediately — classic MI symptom.
+persistent jaw pain,Aching or pressure in the jaw area,Referred Cardiac Pain / TMJ,High,"If accompanied by chest pain, call 112 immediately."
+acute neck pain radiating to chest,Pain starting at neck spreading to chest,Angina / MI / Musculoskeletal,High,Seek immediate medical assessment if associated with exertion.
+recurrent sweating profusely,Sudden cold sweats without exertion,Acute MI / Hypoglycaemia / Anxiety,High,Emergency evaluation recommended. Do not wait.
+worsening nausea with chest pain,Feeling sick accompanied by chest discomfort,Myocardial Infarction,Critical,Treat as cardiac emergency. Call ambulance immediately.
+rapid heartbeat,Heart rate over 100 bpm at rest,Tachycardia / Hyperthyroidism / Anxiety,Moderate,"Check pulse. If sustained, seek ECG evaluation."
+severe slow heartbeat,Heart rate below 60 bpm with symptoms,Bradycardia / Heart Block / Drug effect,Moderate,Stop offending medications if applicable. Seek cardiac review.
+mild irregular heartbeat,Skipped or extra beats felt in chest,Ectopic Beats / AFib / Arrhythmia,Moderate,Record episodes. Avoid triggers. Consult cardiologist for Holter.
+persistent breathlessness on lying flat,Orthopnoea — unable to breathe when supine,Heart Failure / Pulmonary Oedema,High,Prop up with pillows. Urgent medical evaluation.
+acute waking up breathless,Paroxysmal nocturnal dyspnoea,Acute Pulmonary Oedema / Left Heart Failure,Critical,Sit upright. Seek emergency help if severe.
+recurrent blood in phlegm,Haemoptysis — coughing up blood,Pulmonary Embolism / TB / Lung Cancer,High,Immediate evaluation required. Do not ignore.
+worsening high blood pressure reading,Systolic >140 or diastolic >90 mmHg,Hypertension,Moderate,Take medications as prescribed. Reduce salt and stress. Monitor daily.
+very high blood pressure,Systolic >180 mmHg (hypertensive crisis),Hypertensive Emergency,Critical,Seek emergency care immediately. Do not drive yourself.
+severe low blood pressure,Systolic <90 mmHg with symptoms,Hypotension / Shock / Dehydration,High,Lie flat with legs elevated. Hydrate. Call ambulance if unconscious.
+mild cold extremities,Hands and feet cold even in warm conditions,Peripheral Arterial Disease / Raynaud's,Moderate,Keep warm. Avoid smoking. Consult vascular specialist.
+persistent leg cramps at night,Painful calf cramps during sleep,Electrolyte Imbalance / Peripheral Vascular Disease,Low,Stretch legs before sleep. Stay hydrated. Review medications.
+acute claudication,Calf pain on walking relieved by rest,Peripheral Arterial Disease,Moderate,Exercise rehabilitation. Avoid smoking. Vascular referral.
+recurrent bluish lips or fingernails,Cyanosis — blue discolouration,Low Oxygen Saturation / Heart Failure / PE,Critical,Emergency evaluation immediately. Check SpO2.
+worsening visible neck vein pulsation,Distended jugular veins (JVD),Right Heart Failure / Cardiac Tamponade,High,Urgent cardiac evaluation required.
+unexplained weight gain,Rapid weight gain (>2 kg in 2 days),Fluid Retention / Heart Failure,Moderate,Report to cardiologist. Adjust diuretic if prescribed.
+severe night sweats,Excessive sweating during sleep,Lymphoma / TB / Menopause / Endocarditis,Moderate,Investigate with blood tests. Rule out infection or malignancy.
+mild fever with heart murmur,Pyrexia with cardiac auscultation abnormality,Infective Endocarditis,Critical,Blood cultures and echocardiogram urgently required.
+persistent sudden confusion,Acute onset mental status changes,Stroke / Hypoglycaemia / Hypotension,Critical,Call emergency services immediately — possible stroke.
+acute sudden weakness one side,Unilateral arm or leg weakness,Stroke / TIA,Critical,FAST assessment. Call 112 immediately.
+recurrent sudden speech difficulty,Slurred or absent speech,Stroke / TIA,Critical,Emergency — call ambulance. Time is brain.
+worsening headache at back of neck,"Occipital headache, worst ever",Hypertensive Emergency / Subarachnoid Haemorrhage,Critical,Emergency CT scan and evaluation required immediately.
+ringing in ears,Tinnitus — persistent ringing or buzzing,Hypertension / Ototoxic Drugs / Meniere's,Low,Audiological assessment. Check medications. Monitor BP.
+severe poor exercise tolerance,Unable to climb stairs or walk without breathlessness,Heart Failure / COPD / Deconditioning,Moderate,Cardiac workup. Pulmonary function tests. Graduated exercise.
+mild persistent dry cough,Non-productive cough lasting weeks,ACE Inhibitor Side Effect / Heart Failure,Low,"If on ACE inhibitor, switch to ARB. Investigate further."
+persistent recurrent chest infections,Frequent lower respiratory tract infections,Heart Failure / COPD / Immunodeficiency,Moderate,Investigate underlying cause. Ensure vaccinations up to date.
+acute abdominal discomfort with nausea,Right upper quadrant discomfort and nausea,Right Heart Failure / Hepatomegaly,Moderate,Liver function tests. Echocardiogram. Consult gastroenterologist.
+recurrent pulsating stomach sensation,Throbbing in abdomen felt on palpation,Abdominal Aortic Aneurysm,High,Urgent ultrasound abdomen. Vascular surgical referral.
+worsening pain between shoulder blades,Interscapular chest/back pain,Aortic Dissection / MI / Musculoskeletal,High,Rule out aortic dissection urgently — CT chest required.
+tearing back pain,Sudden severe ripping pain in the back,Aortic Dissection,Critical,Emergency — call ambulance immediately. Life-threatening.
+severe purple spots on skin,Non-blanching petechiae or purpura,Vasculitis / DIC / Thrombocytopaenia / Endocarditis,High,Urgent blood tests and specialist review required.
+mild hearing own heartbeat,Pulsatile tinnitus — hearing heartbeat in ear,Hypertension / Carotid Stenosis / Arteriovenous Malformation,Moderate,Carotid Doppler and ENT assessment recommended.
+persistent chest pain on breathing,Pleuritic chest pain worsened by inspiration,Pericarditis / Pleuritis / Pulmonary Embolism,High,"ECG, D-dimer, echo. Rule out PE urgently."
+acute sharp stabbing chest pain,Brief sharp pain in chest,Musculoskeletal / Pericarditis / Anxiety,Low-Moderate,Note relationship to exertion. If exertional — seek cardiac review.
+recurrent central crushing chest pain,Typical ischaemic chest pain with radiation,STEMI / NSTEMI,Critical,EMERGENCY. Call 112. Aspirin 300mg if not allergic.
+worsening exertional breathlessness,Breathlessness brought on by physical activity,Heart Failure / Pulmonary Hypertension / COPD,Moderate,Cardiopulmonary exercise test. Echo and spirometry.
+reduced urine output,Oliguria — less than 400ml urine daily,Acute Kidney Injury / Cardiorenal Syndrome,High,Urgent renal and cardiac evaluation. Fluid balance monitoring.
+severe high pulse rate after rest,Resting heart rate >100 bpm,Sinus Tachycardia / Sepsis / Thyrotoxicosis / AFib,Moderate,12-lead ECG. Blood tests including thyroid function.
+mild fainting during exercise,Exertional syncope,Hypertrophic Cardiomyopathy / Aortic Stenosis / Arrhythmia,Critical,Stop exercise. Seek immediate cardiac evaluation.
+persistent heart murmur detected,Abnormal heart sound on auscultation,Valvular Heart Disease / Congenital Heart Disease,Moderate,Echocardiogram to characterize murmur. Cardiology referral.
+acute poor appetite,Loss of appetite with fatigue,Heart Failure / Depression / Malignancy,Moderate,Blood tests. Nutritional assessment. Investigate underlying cause.
+recurrent frequent urination at night,Nocturia — waking >2 times to urinate,Heart Failure / Diabetes / BPH,Low,Fluid restriction in evenings. Check glucose. Consult physician.
+worsening confusion in elderly,Acute delirium in older patient,Dehydration / Infection / Medication / Heart Failure,High,Geriatric assessment. Rule out sepsis and cardiac cause.
+weight loss with sweating,Unexplained weight loss and night sweats,Tuberculosis / Lymphoma / Endocarditis / Hyperthyroidism,High,"Full blood count, blood cultures, CXR, specialist review."
+severe generalised weakness,Non-specific body weakness and fatigue,Anaemia / Heart Failure / Hypothyroidism / Electrolyte Imbalance,Moderate,Blood tests panel. ECG. Rule out reversible causes.
+mild tremor with fast heartbeat,Shaking and palpitations,Thyrotoxicosis / Anxiety / Drug Side Effect,Moderate,Thyroid function tests. 12-lead ECG.
+persistent cold sweat with nausea,Diaphoresis with vomiting,Acute Coronary Syndrome / Hypoglycaemia / Vagal Response,High,Treat as cardiac emergency. Check blood glucose.
+acute sudden back pain with hypotension,Acute back pain with low BP,Aortic Dissection / Ruptured AAA,Critical,Emergency surgery consult. CT aortogram stat.
+recurrent neck vein distension,Raised JVP visible at bedside,Right Heart Failure / Cardiac Tamponade / SVC Obstruction,High,Echocardiogram. Cardiology review urgently.
+worsening ascites in cardiac patient,Abdominal fluid accumulation,Congestive Heart Failure / Cardiac Cirrhosis,High,Restrict fluid. Diuretics. Hepatic and cardiac assessment.
+productive cough pink froth,Foamy blood-tinged sputum,Acute Pulmonary Oedema,Critical,Emergency. Sit upright. Oxygen. IV furosemide. Call ambulance.
+severe chest pain after eating,Postprandial chest discomfort,GERD / Oesophageal Spasm / Angina (atypical),Low-Moderate,Trial of antacid. Cardiology review if persistent.
+mild persistent hiccups,Intractable hiccoughs,Pericarditis / Myocardial Irritation / Metabolic Cause,Low,ECG. Review medications. Medical evaluation if prolonged.
+persistent toe or finger gangrene,Necrosis of digit tips,Critical Limb Ischaemia / Raynaud's / Vasculitis,Critical,Urgent vascular surgical referral. Do not warm aggressively.
+acute eye pain with halos,Visual disturbance and periorbital pain,Acute Angle-closure Glaucoma (emergency) / Hypertension,High,Ophthalmology emergency assessment immediately.
+recurrent blurred vision with headache,Visual changes and headache,Hypertensive Retinopathy / TIA / Migraine,High,Blood pressure check. Ophthalmology and neurology review.
+worsening racing heart on waking,Fast pounding heart on waking,Paroxysmal AFib / Anxiety / Nocturnal Arrhythmia,Moderate,Holter monitor. Avoid alcohol and caffeine. Cardiology review.
+chest pain,Sharp or crushing pain in the chest area,Angina / Myocardial Infarction,Critical,Seek emergency care immediately. Call 112. Chew aspirin if not allergic.
+severe chest tightness,Squeezing or pressure sensation in chest,Angina / Stable CAD,High,"Rest immediately. If unresolved in 5 minutes, seek emergency care."
+mild shortness of breath,"Difficulty breathing, dyspnoea at rest or exertion",Heart Failure / Pulmonary Embolism,High,Sit upright. Seek medical evaluation urgently.
+persistent palpitations,"Rapid, fluttering, or pounding heartbeat",Arrhythmia / Atrial Fibrillation,Moderate,Note frequency and duration. Avoid caffeine. Consult cardiologist.
+acute dizziness,Lightheadedness or feeling faint,Low Blood Pressure / Arrhythmia,Moderate,Sit or lie down. Hydrate. Avoid sudden standing.
+recurrent syncope,Sudden loss of consciousness or fainting,Vasovagal Syncope / Cardiac Arrhythmia,High,Seek immediate evaluation. Avoid driving until cleared.
+worsening fatigue,Persistent tiredness not relieved by rest,Heart Failure / Anaemia / Hypothyroidism,Moderate,Rest and monitor. Investigate underlying cause with blood tests.
+ankle swelling,Bilateral swelling of feet and ankles,Heart Failure / Venous Insufficiency,Moderate,Elevate legs. Reduce salt intake. Consult physician.
+severe leg swelling,Unilateral or bilateral lower limb oedema,DVT / Heart Failure / Venous Disease,Moderate,Urgent evaluation if unilateral — rule out DVT.
+mild left arm pain,Pain radiating down the left arm,Myocardial Infarction / Angina,Critical,Call emergency services immediately — classic MI symptom.
+persistent jaw pain,Aching or pressure in the jaw area,Referred Cardiac Pain / TMJ,High,"If accompanied by chest pain, call 112 immediately."
+acute neck pain radiating to chest,Pain starting at neck spreading to chest,Angina / MI / Musculoskeletal,High,Seek immediate medical assessment if associated with exertion.
+recurrent sweating profusely,Sudden cold sweats without exertion,Acute MI / Hypoglycaemia / Anxiety,High,Emergency evaluation recommended. Do not wait.
+worsening nausea with chest pain,Feeling sick accompanied by chest discomfort,Myocardial Infarction,Critical,Treat as cardiac emergency. Call ambulance immediately.
+rapid heartbeat,Heart rate over 100 bpm at rest,Tachycardia / Hyperthyroidism / Anxiety,Moderate,"Check pulse. If sustained, seek ECG evaluation."
+severe slow heartbeat,Heart rate below 60 bpm with symptoms,Bradycardia / Heart Block / Drug effect,Moderate,Stop offending medications if applicable. Seek cardiac review.
+mild irregular heartbeat,Skipped or extra beats felt in chest,Ectopic Beats / AFib / Arrhythmia,Moderate,Record episodes. Avoid triggers. Consult cardiologist for Holter.
+persistent breathlessness on lying flat,Orthopnoea — unable to breathe when supine,Heart Failure / Pulmonary Oedema,High,Prop up with pillows. Urgent medical evaluation.
+acute waking up breathless,Paroxysmal nocturnal dyspnoea,Acute Pulmonary Oedema / Left Heart Failure,Critical,Sit upright. Seek emergency help if severe.
+recurrent blood in phlegm,Haemoptysis — coughing up blood,Pulmonary Embolism / TB / Lung Cancer,High,Immediate evaluation required. Do not ignore.
+worsening high blood pressure reading,Systolic >140 or diastolic >90 mmHg,Hypertension,Moderate,Take medications as prescribed. Reduce salt and stress. Monitor daily.
+very high blood pressure,Systolic >180 mmHg (hypertensive crisis),Hypertensive Emergency,Critical,Seek emergency care immediately. Do not drive yourself.
+severe low blood pressure,Systolic <90 mmHg with symptoms,Hypotension / Shock / Dehydration,High,Lie flat with legs elevated. Hydrate. Call ambulance if unconscious.
+mild cold extremities,Hands and feet cold even in warm conditions,Peripheral Arterial Disease / Raynaud's,Moderate,Keep warm. Avoid smoking. Consult vascular specialist.
+persistent leg cramps at night,Painful calf cramps during sleep,Electrolyte Imbalance / Peripheral Vascular Disease,Low,Stretch legs before sleep. Stay hydrated. Review medications.
+acute claudication,Calf pain on walking relieved by rest,Peripheral Arterial Disease,Moderate,Exercise rehabilitation. Avoid smoking. Vascular referral.
+recurrent bluish lips or fingernails,Cyanosis — blue discolouration,Low Oxygen Saturation / Heart Failure / PE,Critical,Emergency evaluation immediately. Check SpO2.
+worsening visible neck vein pulsation,Distended jugular veins (JVD),Right Heart Failure / Cardiac Tamponade,High,Urgent cardiac evaluation required.
+unexplained weight gain,Rapid weight gain (>2 kg in 2 days),Fluid Retention / Heart Failure,Moderate,Report to cardiologist. Adjust diuretic if prescribed.
+severe night sweats,Excessive sweating during sleep,Lymphoma / TB / Menopause / Endocarditis,Moderate,Investigate with blood tests. Rule out infection or malignancy.
+mild fever with heart murmur,Pyrexia with cardiac auscultation abnormality,Infective Endocarditis,Critical,Blood cultures and echocardiogram urgently required.
+persistent sudden confusion,Acute onset mental status changes,Stroke / Hypoglycaemia / Hypotension,Critical,Call emergency services immediately — possible stroke.
+acute sudden weakness one side,Unilateral arm or leg weakness,Stroke / TIA,Critical,FAST assessment. Call 112 immediately.
+recurrent sudden speech difficulty,Slurred or absent speech,Stroke / TIA,Critical,Emergency — call ambulance. Time is brain.
+worsening headache at back of neck,"Occipital headache, worst ever",Hypertensive Emergency / Subarachnoid Haemorrhage,Critical,Emergency CT scan and evaluation required immediately.
+ringing in ears,Tinnitus — persistent ringing or buzzing,Hypertension / Ototoxic Drugs / Meniere's,Low,Audiological assessment. Check medications. Monitor BP.
+severe poor exercise tolerance,Unable to climb stairs or walk without breathlessness,Heart Failure / COPD / Deconditioning,Moderate,Cardiac workup. Pulmonary function tests. Graduated exercise.
+mild persistent dry cough,Non-productive cough lasting weeks,ACE Inhibitor Side Effect / Heart Failure,Low,"If on ACE inhibitor, switch to ARB. Investigate further."
+persistent recurrent chest infections,Frequent lower respiratory tract infections,Heart Failure / COPD / Immunodeficiency,Moderate,Investigate underlying cause. Ensure vaccinations up to date.
+acute abdominal discomfort with nausea,Right upper quadrant discomfort and nausea,Right Heart Failure / Hepatomegaly,Moderate,Liver function tests. Echocardiogram. Consult gastroenterologist.
+recurrent pulsating stomach sensation,Throbbing in abdomen felt on palpation,Abdominal Aortic Aneurysm,High,Urgent ultrasound abdomen. Vascular surgical referral.
+worsening pain between shoulder blades,Interscapular chest/back pain,Aortic Dissection / MI / Musculoskeletal,High,Rule out aortic dissection urgently — CT chest required.
+tearing back pain,Sudden severe ripping pain in the back,Aortic Dissection,Critical,Emergency — call ambulance immediately. Life-threatening.
+severe purple spots on skin,Non-blanching petechiae or purpura,Vasculitis / DIC / Thrombocytopaenia / Endocarditis,High,Urgent blood tests and specialist review required.
+mild hearing own heartbeat,Pulsatile tinnitus — hearing heartbeat in ear,Hypertension / Carotid Stenosis / Arteriovenous Malformation,Moderate,Carotid Doppler and ENT assessment recommended.
+persistent chest pain on breathing,Pleuritic chest pain worsened by inspiration,Pericarditis / Pleuritis / Pulmonary Embolism,High,"ECG, D-dimer, echo. Rule out PE urgently."
+acute sharp stabbing chest pain,Brief sharp pain in chest,Musculoskeletal / Pericarditis / Anxiety,Low-Moderate,Note relationship to exertion. If exertional — seek cardiac review.
+recurrent central crushing chest pain,Typical ischaemic chest pain with radiation,STEMI / NSTEMI,Critical,EMERGENCY. Call 112. Aspirin 300mg if not allergic.
+worsening exertional breathlessness,Breathlessness brought on by physical activity,Heart Failure / Pulmonary Hypertension / COPD,Moderate,Cardiopulmonary exercise test. Echo and spirometry.
+reduced urine output,Oliguria — less than 400ml urine daily,Acute Kidney Injury / Cardiorenal Syndrome,High,Urgent renal and cardiac evaluation. Fluid balance monitoring.
+severe high pulse rate after rest,Resting heart rate >100 bpm,Sinus Tachycardia / Sepsis / Thyrotoxicosis / AFib,Moderate,12-lead ECG. Blood tests including thyroid function.
+mild fainting during exercise,Exertional syncope,Hypertrophic Cardiomyopathy / Aortic Stenosis / Arrhythmia,Critical,Stop exercise. Seek immediate cardiac evaluation.
+persistent heart murmur detected,Abnormal heart sound on auscultation,Valvular Heart Disease / Congenital Heart Disease,Moderate,Echocardiogram to characterize murmur. Cardiology referral.
+acute poor appetite,Loss of appetite with fatigue,Heart Failure / Depression / Malignancy,Moderate,Blood tests. Nutritional assessment. Investigate underlying cause.
+recurrent frequent urination at night,Nocturia — waking >2 times to urinate,Heart Failure / Diabetes / BPH,Low,Fluid restriction in evenings. Check glucose. Consult physician.
+worsening confusion in elderly,Acute delirium in older patient,Dehydration / Infection / Medication / Heart Failure,High,Geriatric assessment. Rule out sepsis and cardiac cause.
+weight loss with sweating,Unexplained weight loss and night sweats,Tuberculosis / Lymphoma / Endocarditis / Hyperthyroidism,High,"Full blood count, blood cultures, CXR, specialist review."
+severe generalised weakness,Non-specific body weakness and fatigue,Anaemia / Heart Failure / Hypothyroidism / Electrolyte Imbalance,Moderate,Blood tests panel. ECG. Rule out reversible causes.
+mild tremor with fast heartbeat,Shaking and palpitations,Thyrotoxicosis / Anxiety / Drug Side Effect,Moderate,Thyroid function tests. 12-lead ECG.
+persistent cold sweat with nausea,Diaphoresis with vomiting,Acute Coronary Syndrome / Hypoglycaemia / Vagal Response,High,Treat as cardiac emergency. Check blood glucose.
+acute sudden back pain with hypotension,Acute back pain with low BP,Aortic Dissection / Ruptured AAA,Critical,Emergency surgery consult. CT aortogram stat.
+recurrent neck vein distension,Raised JVP visible at bedside,Right Heart Failure / Cardiac Tamponade / SVC Obstruction,High,Echocardiogram. Cardiology review urgently.
+worsening ascites in cardiac patient,Abdominal fluid accumulation,Congestive Heart Failure / Cardiac Cirrhosis,High,Restrict fluid. Diuretics. Hepatic and cardiac assessment.
+productive cough pink froth,Foamy blood-tinged sputum,Acute Pulmonary Oedema,Critical,Emergency. Sit upright. Oxygen. IV furosemide. Call ambulance.
+severe chest pain after eating,Postprandial chest discomfort,GERD / Oesophageal Spasm / Angina (atypical),Low-Moderate,Trial of antacid. Cardiology review if persistent.
+mild persistent hiccups,Intractable hiccoughs,Pericarditis / Myocardial Irritation / Metabolic Cause,Low,ECG. Review medications. Medical evaluation if prolonged.
+persistent toe or finger gangrene,Necrosis of digit tips,Critical Limb Ischaemia / Raynaud's / Vasculitis,Critical,Urgent vascular surgical referral. Do not warm aggressively.
+acute eye pain with halos,Visual disturbance and periorbital pain,Acute Angle-closure Glaucoma (emergency) / Hypertension,High,Ophthalmology emergency assessment immediately.
+recurrent blurred vision with headache,Visual changes and headache,Hypertensive Retinopathy / TIA / Migraine,High,Blood pressure check. Ophthalmology and neurology review.
+worsening racing heart on waking,Fast pounding heart on waking,Paroxysmal AFib / Anxiety / Nocturnal Arrhythmia,Moderate,Holter monitor. Avoid alcohol and caffeine. Cardiology review.
+chest pain,Sharp or crushing pain in the chest area,Angina / Myocardial Infarction,Critical,Seek emergency care immediately. Call 112. Chew aspirin if not allergic.
+severe chest tightness,Squeezing or pressure sensation in chest,Angina / Stable CAD,High,"Rest immediately. If unresolved in 5 minutes, seek emergency care."
+mild shortness of breath,"Difficulty breathing, dyspnoea at rest or exertion",Heart Failure / Pulmonary Embolism,High,Sit upright. Seek medical evaluation urgently.
+persistent palpitations,"Rapid, fluttering, or pounding heartbeat",Arrhythmia / Atrial Fibrillation,Moderate,Note frequency and duration. Avoid caffeine. Consult cardiologist.
+acute dizziness,Lightheadedness or feeling faint,Low Blood Pressure / Arrhythmia,Moderate,Sit or lie down. Hydrate. Avoid sudden standing.
+recurrent syncope,Sudden loss of consciousness or fainting,Vasovagal Syncope / Cardiac Arrhythmia,High,Seek immediate evaluation. Avoid driving until cleared.
+worsening fatigue,Persistent tiredness not relieved by rest,Heart Failure / Anaemia / Hypothyroidism,Moderate,Rest and monitor. Investigate underlying cause with blood tests.
+ankle swelling,Bilateral swelling of feet and ankles,Heart Failure / Venous Insufficiency,Moderate,Elevate legs. Reduce salt intake. Consult physician.
+severe leg swelling,Unilateral or bilateral lower limb oedema,DVT / Heart Failure / Venous Disease,Moderate,Urgent evaluation if unilateral — rule out DVT.
+mild left arm pain,Pain radiating down the left arm,Myocardial Infarction / Angina,Critical,Call emergency services immediately — classic MI symptom.
